@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@300&family=Outfit:wght@300;500&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Add icon library -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <!-- Add jquery library -->
+    <script
+      src="https://code.jquery.com/jquery-3.6.4.js"
+      integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E="
+      crossorigin="anonymous"
+    ></script>
+    <script type="module" defer src="/js/food.js"></script>
+    <link rel="stylesheet" href="/css/food.css" />
+    <title>Rail Haus - Food</title>
+  </head>
+  <body>
+    <div class="main-page">
+      <nav class="navbar">
+        <ul class="nav">
+          <li class="nav-item">
+            <a class="nav-link" href="/index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/pages/drinks.html">Drinks</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="/pages/food.html">Food</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/pages/events.html">Events</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/pages/about.html">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/pages/contact.html">Contact Us</a>
+          </li>
+        </ul>
+      </nav>
+      <img
+        class="main-logo"
+        src="/images/RailHaus_100K_StackLogo.png"
+        alt="Rail Haus"
+      />
+      <h1 class="title">FOOD MENU</h1>
+      <div class="tabs">
+        <div class="tab" id="wurst-list">
+          <input type="checkbox" id="rd1" />
+          <label class="tab-label" for="rd1">Wurst</label>
+        </div>
+        <div class="tab" id="burger-list">
+          <input type="checkbox" id="rd2" />
+          <label class="tab-label" for="rd2">Burgers</label>
+        </div>
+        <div class="tab" id="sandwiches-list">
+          <input type="checkbox" id="rd3" />
+          <label class="tab-label" for="rd3">Sandwiches</label>
+        </div>
+        <div class="tab" id="salad-list">
+          <input type="checkbox" id="rd4" />
+          <label class="tab-label" for="rd4">Salads</label>
+        </div>
+        <div class="tab" id="snack-list">
+          <input type="checkbox" id="rd5" />
+          <label class="tab-label" for="rd5">Snacks</label>
+        </div>
+        <div class="tab" id="dessert-list">
+          <input type="checkbox" id="rd6" />
+          <label class="tab-label" for="rd6">Desserts</label>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

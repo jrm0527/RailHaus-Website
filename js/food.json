@@ -1,0 +1,105 @@
+[
+  {
+    "type": "wurst",
+    "name": "Bratwurst (pork)",
+    "detail": ""
+  },
+  {
+    "type": "wurst",
+    "name": "Spicy Bauernwurst (beef + pork)",
+    "detail": ""
+  },
+  {
+    "type": "wurst",
+    "name": "Weisswurst (veal + pork)",
+    "detail": ""
+  },
+  {
+    "type": "wurst",
+    "name": "Kasekrainer (beef + pork + cheese)",
+    "detail": ""
+  },
+  {
+    "type": "wurst",
+    "name": "Currywurst (pork + curry spices)",
+    "detail": ""
+  },
+  {
+    "type": "wurst",
+    "name": "Frankfurter (all beef)",
+    "detail": ""
+  },
+  {
+    "type": "wurst",
+    "name": "Veggie Bratwurst",
+    "detail": ""
+  },
+
+  {
+    "type": "burger",
+    "name": "The Standard",
+    "detail": "Cheese of your choice, lettuce, tomato, red onion"
+  },
+  {
+    "type": "burger",
+    "name": "Hanger",
+    "detail": "Swiss, arugula, tomato, caramelized onions, mushrooms, horseradish cream"
+  },
+  {
+    "type": "burger",
+    "name": "Farm Burger",
+    "detail": "country ham, applewood-smoked bacon, farm egg, maple mustard"
+  },
+
+  {
+    "type": "sandwiches",
+    "name": "Schnitzel Sandwish",
+    "detail": ""
+  },
+  {
+    "type": "sandwiches",
+    "name": "German Street Doner",
+    "detail": "Crunchy bread, grilled meet, tangy sauce, crispy vegetables"
+  },
+
+  {
+    "type": "salad",
+    "name": "Cobb Salad",
+    "detail": "Chicken, Chopped Romain, Sliced cherry tomatoes, Smoked turkey, egg, avocado, blue cheese, ranch dressing"
+  },
+  {
+    "type": "salad",
+    "name": "Guac and Green Salad with chicken",
+    "detail": "Spinach, red onion, lime, tortilla chips, cilantro, dressing"
+  },
+  {
+    "type": "salad",
+    "name": "Kale Cesar",
+    "detail": "Kale, shredded Parmesan, grape tomatoes, garlic-onion mix and quinoa.  Tossed in a white balsamic vinaigrette"
+  },
+  {
+    "type": "snack",
+    "name": "Large Pretzel with Cheese",
+    "detail": ""
+  },
+  {
+    "type": "snack",
+    "name": "Hummus Plate",
+    "detail": ""
+  },
+  {
+    "type": "snack",
+    "name": "Fresh Cut Fries",
+    "detail": ""
+  },
+  {
+    "type": "snack",
+    "name": "Buttermilk Chicken Nuggets",
+    "detail": ""
+  },
+  {
+    "type": "dessert",
+    "name": "Loukoumades",
+    "detail": "Simple dough, fried until golden and crispy, drizzled with honey"
+  }
+]
