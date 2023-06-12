@@ -7,6 +7,7 @@ body {
   flex-direction: column;
   /* justify-content: space-evenly; */
   align-items: center;
+  margin: auto;
   width: 96.5vw;
 }
 
