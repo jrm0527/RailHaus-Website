@@ -1,8 +1,10 @@
-import foods from "./food.json" assert { type: "json" };
+import foods from "../js/food.json" assert { type: "json" };
 
-for (let i = 0; i < foods.length; i++) {
-  let food = foods[i];
-  createFoodMenu(food);
+function setupPage() {
+  for (let i = 0; i < foods.length; i++) {
+    let food = foods[i];
+    createFoodMenu(food);
+  }
 }
 
 function createFoodMenu(food) {
@@ -12,3 +14,5 @@ function createFoodMenu(food) {
   let div = $("<div>").addClass("tab-content").append(li);
   $(`#${food.type}-list`).append(div);
 }
+
+setupPage();
