@@ -1,4 +1,4 @@
-import foods from "/js/food.json" assert { type: "json" };
+import foods from "./food.json" assert { type: "json" };
 
 for (let i = 0; i < foods.length; i++) {
   let food = foods[i];
