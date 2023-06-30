@@ -1,4 +1,4 @@
-import foods from "../js/food.json" assert { type: "json" };
+import foods from "./food.json" assert { type: "json" };
 
 function setupPage() {
   for (let i = 0; i < foods.length; i++) {
