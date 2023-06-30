@@ -6,26 +6,21 @@ body {
   display: flex;
   flex-direction: column;
   /* justify-content: space-evenly; */
-  margin: auto;
   align-items: center;
+  margin: auto;
   width: 96.5vw;
 }
 
 .navbar {
   display: flex;
-  margin-top: 10px;
-}
-
-.nav {
-  display: flex;
-  flex-direction: row;
-  width: 95%;
-  margin: auto;
   justify-content: space-evenly;
-  list-style-type: none;
+  margin-top: 10px;
+  width: 100%;
+  flex-wrap: wrap;
 }
 
 .nav-item {
+  display: flex;
   padding: 5px;
 }
 
@@ -107,9 +102,42 @@ color: #ff6f61  living coral
 color: #d4edec  limpet shell
 
 */
+
+@media (min-width: 280px) {
+  .navbar {
+    width: 220px;
+  }
+
+  .nav-link {
+    font-size: 0.9rem;
+  }
+}
+
+@media (min-width: 350px) {
+  .navbar {
+    width: 300px;
+  }
+
+  .nav-link {
+    font-size: 0.9rem;
+  }
+
+  .main-logo {
+    width: 240px;
+  }
+
+  .header-text {
+    font-size: 1.7rem;
+  }
+
+  .social-icon {
+    font-size: 2.3rem;
+  }
+}
+
 @media (min-width: 390px) {
   .navbar {
-    width: 380px;
+    width: 320px;
   }
 
   .nav-link {
@@ -154,7 +182,7 @@ color: #d4edec  limpet shell
 /* Medium Devices*/
 @media (min-width: 768px) {
   .navbar {
-    width: 680px;
+    width: 550px;
   }
 
   .nav-link {
@@ -162,7 +190,7 @@ color: #d4edec  limpet shell
   }
 
   .main-logo {
-    width: 520px;
+    width: 410px;
   }
 
   .header-text {

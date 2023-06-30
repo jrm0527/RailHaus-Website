@@ -5,38 +5,30 @@ body {
 .main-page {
   display: flex;
   flex-direction: column;
-  margin: auto;
   /* justify-content: space-evenly; */
   align-items: center;
+  margin: auto;
   width: 96.5vw;
 }
 
 .navbar {
   display: flex;
-  margin-top: 10px;
-  margin: auto;
-  width: 30%;
-}
-
-.nav {
-  display: flex;
-  flex-direction: row;
-  width: 95%;
-  margin: auto;
   justify-content: space-evenly;
-  list-style-type: none;
+  margin-top: 10px;
+  width: 100%;
+  flex-wrap: wrap;
 }
 
 .nav-item {
+  display: flex;
   padding: 5px;
 }
 
 .nav-link {
   text-decoration: none;
   color: black;
-  font-size: 1rem;
+  font-size: 0.7rem;
   font-family: "Outfit", sans-serif;
-  font-weight: 300;
 }
 
 .nav-link:hover {
@@ -44,7 +36,7 @@ body {
 }
 
 .active {
-  color: black;
+  color: #ff6f61;
   font-weight: bolder;
   text-decoration: underline;
 }
@@ -149,14 +141,49 @@ input {
 
 @media (min-width: 280px) {
   .navbar {
-    width: 250px;
-    margin-left: -50px;
-    margin-right: 0;
+    width: 220px;
   }
 
   .nav-link {
     font-size: 0.7rem;
-    text-align: left;
+  }
+
+  .nav-item {
+    padding: 5px;
+  }
+
+  .main-logo {
+    margin-top: 25px;
+    width: 150px;
+  }
+
+  .title {
+    font-size: 1.5rem;
+  }
+
+  .tabs {
+    margin-top: -10px;
+    width: 90%;
+  }
+
+  .tab-label {
+    font-size: 1rem;
+  }
+
+  .list-item {
+    font-size: 0.7rem;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+}
+
+@media (min-width: 350px) {
+  .navbar {
+    width: 300px;
+  }
+
+  .nav-link {
+    font-size: 0.9rem;
   }
 
   .nav-item {
@@ -189,7 +216,7 @@ input {
 
 @media (min-width: 390px) {
   .navbar {
-    width: 380px;
+    width: 320px;
   }
 
   .nav-link {
@@ -221,7 +248,7 @@ input {
 /* Small Devices*/
 @media (min-width: 576px) {
   .navbar {
-    width: 420px;
+    width: 380px;
     margin-top: 20px;
   }
 
@@ -253,12 +280,12 @@ input {
 /* Medium Devices*/
 @media (min-width: 768px) {
   .navbar {
-    width: 480px;
+    width: 350px;
     margin-top: 20px;
   }
 
   .nav-link {
-    font-size: 0.9rem;
+    font-size: 1rem;
   }
 
   .main-logo {
@@ -285,12 +312,12 @@ input {
 /* Large Devices*/
 @media (min-width: 992px) {
   .navbar {
-    width: 530px;
+    width: 550px;
     margin-top: 25px;
   }
 
   .nav-link {
-    font-size: 1rem;
+    font-size: 1.2rem;
   }
 
   .main-logo {
