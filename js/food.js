@@ -1,10 +1,14 @@
-import foods from "./food.json" assert { type: "json" };
+// import foods from "../js/food.json" assert { type: "json" };
 
 function setupPage() {
-  for (let i = 0; i < foods.length; i++) {
-    let food = foods[i];
-    createFoodMenu(food);
-  }
+  fetch("../js/food.json")
+    .then((response) => response.json())
+    .then((foods) => {
+      for (let i = 0; i < foods.length; i++) {
+        let food = foods[i];
+        createFoodMenu(food);
+      }
+    });
 }
 
 function createFoodMenu(food) {
