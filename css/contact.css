@@ -56,9 +56,10 @@ body {
   padding-bottom: 0;
 }
 
-.contact-text {
+.paragraph-text {
   font-family: "Outfit", sans-serif;
   font-size: 1.5rem;
+  width: 60%;
 }
 
 @media (min-width: 280px) {
@@ -80,22 +81,12 @@ body {
   }
 
   .title {
-    font-size: 1.5rem;
+    font-size: 1.7rem;
   }
 
-  .tabs {
-    margin-top: -10px;
-    width: 90%;
-  }
-
-  .tab-label {
+  .paragraph-text {
+    width: 85%;
     font-size: 1rem;
-  }
-
-  .list-item {
-    font-size: 0.7rem;
-    margin-left: 2%;
-    margin-right: 2%;
   }
 }
 
@@ -113,26 +104,16 @@ body {
   }
 
   .main-logo {
-    width: 150px;
+    width: 180px;
   }
 
   .title {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
   }
 
-  .tabs {
-    margin-top: -10px;
-    width: 90%;
-  }
-
-  .tab-label {
+  .paragraph-text {
+    width: 85%;
     font-size: 1rem;
-  }
-
-  .list-item {
-    font-size: 0.7rem;
-    margin-left: 2%;
-    margin-right: 2%;
   }
 }
 
@@ -150,27 +131,19 @@ body {
   }
 
   .title {
-    font-size: 1.5rem;
+    font-size: 1.7rem;
   }
 
-  .tabs {
-    margin-top: -10px;
+  .paragraph-text {
     width: 85%;
-  }
-
-  .tab-label {
     font-size: 1rem;
-  }
-
-  .list-item {
-    font-size: 0.8rem;
   }
 }
 
 /* Small Devices*/
 @media (min-width: 576px) {
   .navbar {
-    width: 380px;
+    width: 350px;
     margin-top: 20px;
   }
 
@@ -183,19 +156,11 @@ body {
   }
 
   .title {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
   }
 
-  .tabs {
-    margin-top: -10px;
-    width: 80%;
-  }
-
-  .tab-label {
-    font-size: 1rem;
-  }
-
-  .list-item {
+  .paragraph-text {
+    width: 55%;
     font-size: 1rem;
   }
 }
@@ -215,20 +180,12 @@ body {
   }
 
   .title {
-    font-size: 1.8rem;
+    font-size: 2.2rem;
   }
 
-  .tabs {
-    margin-top: -10px;
-    width: 40%;
-  }
-
-  .tab-label {
-    font-size: 0.9rem;
-  }
-
-  .list-item {
-    font-size: 0.7rem;
+  .paragraph-text {
+    width: 55%;
+    font-size: 1.2rem;
   }
 }
 /* Large Devices*/
@@ -247,20 +204,12 @@ body {
   }
 
   .title {
-    font-size: 2rem;
+    font-size: 2.7rem;
   }
 
-  .tabs {
-    margin-top: -10px;
-    width: 40%;
-  }
-
-  .tab-label {
-    font-size: 1.1rem;
-  }
-
-  .list-item {
-    font-size: 0.9rem;
+  .paragraph-text {
+    width: 60%;
+    font-size: 1.2rem;
   }
 }
 
@@ -280,20 +229,12 @@ body {
   }
 
   .title {
-    font-size: 2rem;
+    font-size: 3rem;
   }
 
-  .tabs {
-    margin-top: -20px;
-    width: 40%;
-  }
-
-  .tab-label {
+  .paragraph-text {
+    width: 60%;
     font-size: 1.2rem;
-  }
-
-  .list-item {
-    font-size: 1rem;
   }
 }
 
@@ -315,12 +256,9 @@ body {
     font-size: 4rem;
   }
 
-  .tab-label {
+  .paragraph-text {
+    width: 60%;
     font-size: 1.5rem;
-  }
-
-  .list-item {
-    font-size: 1.2rem;
   }
 }
 
@@ -341,11 +279,7 @@ body {
     font-size: 4.5rem;
   }
 
-  .tab-label {
-    font-size: 1.8rem;
-  }
-
-  .list-item {
-    font-size: 1.5rem;
+  .paragraph-text {
+    width: 40%;
   }
 }

@@ -8,11 +8,21 @@ function setupPage() {
 }
 
 function createDrinkMenu(drink) {
-  let name = $("<span>").text(drink.name).addClass("item-name");
-  let size = $("<span>").text(drink.size).addClass("item-size");
-  let li = $("<li>").addClass("list-item").append(name, size);
-  let div = $("<div>").addClass("tab-content").append(li);
-  $(`#${drink.type}-list`).append(div);
+  let name = document.createElement("span");
+  name.innerText = drink.name;
+  name.classList.add("item-name");
+
+  let detail = document.createElement("span");
+  detail.classList.add("item-size");
+  detail.innerText = drink.size;
+
+  let li = document.createElement("li");
+  li.classList.add("list-item");
+  li.appendChild(name);
+  li.appendChild(detail);
+
+  const list = document.getElementById(`${drink.type}-list`);
+  list.appendChild(li);
 }
 
 setupPage();

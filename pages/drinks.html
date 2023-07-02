@@ -16,13 +16,7 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
     />
-    <!-- Add jquery library -->
-    <!-- <script
-      src="https://code.jquery.com/jquery-3.6.4.js"
-      integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E="
-      crossorigin="anonymous"
-    ></script> -->
-    <!-- <script type="module" defer src="../js/drinks.js"></script> -->
+    <script type="module" defer src="../js/drinks.js"></script>
     <link rel="stylesheet" href="../css/drinks.css" />
     <title>Rail Haus - Drinks</title>
   </head>
@@ -58,135 +52,30 @@
       />
       <h1 class="title">DRINK MENU</h1>
       <div class="tabs">
-        <div class="tab" id="main-bar-draft-list">
+        <div class="tab">
           <input type="checkbox" id="rd1" />
           <label class="tab-label" for="rd1">Main Bar Draft</label>
-          <div class="tab-content">
-            <li class="list-item">
-              <span class="item-name">STK Rothaus Tannenzapfle Pilsner</span>
-              <span class="item-size">.5L / L</span>
-            </li>
-            <li class="list-item">
-              <span class="item-name"
-                >Schofferhofer Hefeweizen Grapefruit Bier</span
-              >
-              <span class="item-size">.5L / L</span>
-            </li>
-            <li class="list-item">
-              <span class="item-name">Paulaner HefeWeizen</span>
-              <span class="item-size">.5L / L</span>
-            </li>
-            <li class="list-item">
-              <span class="item-name">Guinness Draught</span>
-              <span class="item-size">Pint</span>
-            </li>
-            <li class="list-item">
-              <span class="item-name">Warsteiner Dunkel</span>
-              <span class="item-size">.5L / L</span>
-            </li>
-            <li class="list-item">
-              <span class="item-name">Strongbow Cider</span>
-              <span class="item-size">.5L / L</span>
-            </li>
-            <li class="list-item">
-              <span class="item-name">First State Stellar Entanglement</span>
-              <span class="item-size">10 oz. Tulip</span>
-            </li>
-            <li class="list-item">
-              <span class="item-name">Allagash White</span>
-              <span class="item-size">.5L</span>
-            </li>
-            <li class="list-item">
-              <span class="item-name">Seasonal Rotator</span>
-              <span class="item-size">Pint</span>
-            </li>
-            <li class="list-item">
-              <span class="item-name">Dewey Beer Fruited Sour</span>
-              <span class="item-size">10 oz. Tulip</span>
-            </li>
-            <li class="list-item">
-              <span class="item-name">Hell or Highwater Watermelon</span>
-              <span class="item-size">.5L</span>
-            </li>
-            <li class="list-item">
-              <span class="item-name">Other Half Green City IPA</span>
-              <span class="item-size">10 oz. Tulip</span>
-            </li>
-            <li class="list-item">
-              <span class="item-name"
-                >Schofferhofer Hefeweizen Grapefruit Bier</span
-              >
-              <span class="item-size">.5L / L</span>
-            </li>
-          </div>
+          <div class="tab-content" id="main-bar-draft-list"></div>
         </div>
-        <div class="tab" id="yard-bar-draft-list">
+        <div class="tab">
           <input type="checkbox" id="rd2" />
           <label class="tab-label" for="rd2">Yard Bar</label>
-          <div class="tab-content">
-            <li class="list-item">
-              <span class="item-name"
-                >Schofferhofer Hefeweizen Grapefruit Bier</span
-              >
-              <span class="item-size">.5L / L</span>
-            </li>
-            <li class="list-item">
-              <span class="item-name">Paulaner Hefe</span>
-              <span class="item-size">.5L / L</span>
-            </li>
-            <li class="list-item">
-              <span class="item-name">Other Half Forever Ever IPA</span>
-              <span class="item-size">.5L / L</span>
-            </li>
-            <li class="list-item">
-              <span class="item-name">STK Rothaus Tannenzapfle Pilsner</span>
-              <span class="item-size">.5L / L</span>
-            </li>
-            <li class="list-item">
-              <span class="item-name">Budlight Lime</span>
-              <span class="item-size">.5L</span>
-            </li>
-            <li class="list-item">
-              <span class="item-name">Allagash White</span>
-              <span class="item-size">.5L</span>
-            </li>
-          </div>
+          <div class="tab-content" id="yard-bar-draft-list"></div>
         </div>
-        <div class="tab" id="beer-cocktails-list">
+        <div class="tab">
           <input type="checkbox" id="rd3" />
           <label class="tab-label" for="rd3">Beer Cocktails</label>
-          <div class="tab-content">
-            <li class="list-item">
-              <span class="item-name">Grapefruit Radler</span>
-              <span class="item-size">.5L</span>
-            </li>
-            <li class="list-item">
-              <span class="item-name">Summer Shandy</span>
-              <span class="item-size">.5L</span>
-            </li>
-          </div>
+          <div class="tab-content" id="beer-cocktails-list"></div>
         </div>
-        <div class="tab" id="cans-bottles-list">
+        <div class="tab">
           <input type="checkbox" id="rd4" />
           <label class="tab-label" for="rd4">Cans & Bottles</label>
-          <div class="tab-content">
-            <li class="list-item">
-              <span class="item-name"
-                >ABC (NA), Local, International, and Rare Finds</span
-              >
-              <span class="item-size"></span>
-            </li>
-          </div>
+          <div class="tab-content" id="cans-bottles-list"></div>
         </div>
-        <div class="tab" id="wine-list">
+        <div class="tab">
           <input type="checkbox" id="rd5" />
           <label class="tab-label" for="rd5">Wine</label>
-          <div class="tab-content">
-            <li class="list-item">
-              <span class="item-name">1 Red, 1 White, 1 Rose</span>
-              <span class="item-size">Glass</span>
-            </li>
-          </div>
+          <div class="tab-content" id="wine-list"></div>
         </div>
       </div>
     </div>

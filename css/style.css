@@ -160,11 +160,11 @@ color: #d4edec  limpet shell
 /* Small Devices*/
 @media (min-width: 576px) {
   .navbar {
-    width: 380px;
+    width: 350px;
   }
 
   .nav-link {
-    font-size: 0.9rem;
+    font-size: 1rem;
   }
 
   .main-logo {

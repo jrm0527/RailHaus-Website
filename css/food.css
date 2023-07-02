@@ -249,7 +249,7 @@ input {
 /* Small Devices*/
 @media (min-width: 576px) {
   .navbar {
-    width: 380px;
+    width: 350px;
     margin-top: 20px;
   }
 
