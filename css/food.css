@@ -100,6 +100,7 @@ color: #d4edec  limpet shell
   text-align: center;
   transition: all 0.15s;
 }
+
 .tab-content {
   display: flex;
   flex-direction: column;
@@ -113,7 +114,6 @@ input:checked + .tab-label::after {
 }
 input:checked ~ .tab-content {
   max-height: fit-content;
-  padding: 0.25em;
 }
 
 input {
@@ -129,6 +129,7 @@ input {
   margin-left: 5%;
   font-family: "Outfit", sans-serif;
   font-weight: 300;
+  padding-bottom: 1.5%;
 }
 
 .item-name {

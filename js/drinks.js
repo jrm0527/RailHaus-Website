@@ -1,6 +1,6 @@
 import drinks from "../js/drinks.json" assert { type: "json" };
 
-let selectedId;
+// let selectedId;
 
 function setupPage() {
   for (let i = 0; i < drinks.length; i++) {
@@ -18,28 +18,46 @@ function createDrinkMenu(drink) {
   name.innerText = drink.name;
   name.classList.add("item-name");
 
-  let detail = document.createElement("span");
-  detail.classList.add("item-size");
-  detail.innerText = drink.size;
+  let size = document.createElement("span");
+  size.classList.add("item-size");
+  size.innerText = drink.size;
 
-  let li = document.createElement("li");
-  li.classList.add("list-item");
-  li.appendChild(name);
-  li.appendChild(detail);
+  let nameCont = document.createElement("li");
+  nameCont.classList.add("list-name");
+  nameCont.appendChild(name);
+  nameCont.appendChild(size);
+
+  let detail = document.createElement("span");
+  detail.innerText = drink.style;
+  detail.classList.add("item-detail");
+
+  let abv = document.createElement("span");
+  abv.innerText = drink.abv;
+  abv.classList.add("item-detail");
+
+  let detailCont = document.createElement("li");
+  detailCont.classList.add("list-detail");
+  detailCont.appendChild(detail);
+  detailCont.appendChild(abv);
+
+  let listCont = document.createElement("li");
+  listCont.classList.add("list-item");
+  listCont.appendChild(nameCont);
+  listCont.appendChild(detailCont);
 
   const list = document.getElementById(`${drink.type}-list`);
-  list.appendChild(li);
+  list.appendChild(listCont);
 }
 
-function selectOnlyThis() {
-  if (selectedId === this.id) (this.checked = false), (selectedId = null);
-  else {
-    for (var i = 1; i <= 5; i++) {
-      document.getElementById("drink" + i).checked = false;
-    }
-    this.checked = true;
-    selectedId = this.id;
-  }
-}
+// function selectOnlyThis() {
+//   if (selectedId === this.id) (this.checked = false), (selectedId = null);
+//   else {
+//     for (var i = 1; i <= 5; i++) {
+//       document.getElementById("drink" + i).checked = false;
+//     }
+//     this.checked = true;
+//     selectedId = this.id;
+//   }
+// }
 
 setupPage();

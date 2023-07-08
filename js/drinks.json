@@ -1,134 +1,184 @@
 [
   {
     "type": "main-bar-draft",
-    "name": "STK Rothaus Tannenzapfle Pilsner",
-    "style": "",
-    "size": ".5L / L"
+    "name": "Warsteiner",
+    "style": "Pilsner",
+    "size": ".5L / L",
+    "abv": "4.8%"
   },
   {
     "type": "main-bar-draft",
-    "name": "Schofferhofer Hefeweizen Grapefruit Bier",
-    "style": "",
-    "size": ".5L / L"
+    "name": "Schofferhofer",
+    "style": "Hefeweizen Grapefruit Bier",
+    "size": ".5L / L",
+    "abv": "2.5%"
   },
   {
     "type": "main-bar-draft",
-    "name": "Paulaner HefeWeizen",
-    "style": "",
-    "size": ".5L / L"
+    "name": "Paulaner",
+    "style": "Hefe-Weizen",
+    "size": ".5L / L",
+    "abv": "5.5%"
   },
   {
     "type": "main-bar-draft",
-    "name": "Guinness Draught",
-    "style": "",
-    "size": "Pint"
+    "name": "Guinness",
+    "style": "Draught",
+    "size": "Pint",
+    "abv": "4.2%"
   },
   {
     "type": "main-bar-draft",
-    "name": "Warsteiner Dunkel",
-    "style": "",
-    "size": ".5L / L"
+    "name": "Warsteiner",
+    "style": "Dunkel",
+    "size": ".5L / L",
+    "abv": "4.8%"
   },
   {
     "type": "main-bar-draft",
-    "name": "Strongbow Cider",
-    "style": "",
-    "size": ".5L / L"
+    "name": "Strongbow",
+    "style": "Cider",
+    "size": ".5L / L",
+    "abv": "5%"
   },
   {
     "type": "main-bar-draft",
-    "name": "First State Stellar Entanglement",
-    "style": "",
-    "size": "10 oz. Tulip"
+    "name": "First State",
+    "style": "Hazy IPA",
+    "size": "10 oz.",
+    "abv": "8%"
   },
   {
     "type": "main-bar-draft",
-    "name": "Allagash White",
-    "style": "",
-    "size": ".5L"
+    "name": "Spaten Munchen",
+    "style": "Helles Lager",
+    "size": ".5L / L",
+    "abv": "5.2%"
   },
   {
     "type": "main-bar-draft",
     "name": "Seasonal Rotator",
     "style": "",
-    "size": "Pint"
+    "size": "Pint",
+    "abv": ""
   },
   {
     "type": "main-bar-draft",
-    "name": "Dewey Beer Fruited Sour",
-    "style": "",
-    "size": "10 oz. Tulip"
+    "name": "Dewey Beer",
+    "style": "Fruited Sour",
+    "size": "10 oz.",
+    "abv": "7.5%"
   },
   {
     "type": "main-bar-draft",
-    "name": "Hell or Highwater Watermelon",
-    "style": "",
-    "size": ".5L"
+    "name": "Blue Earl",
+    "style": "Honeysuckle Rose Belgian Blonde",
+    "size": "10 oz.",
+    "abv": "7.2%"
   },
   {
     "type": "main-bar-draft",
-    "name": "Other Half Green City IPA",
-    "style": "",
-    "size": "10 oz. Tulip"
+    "name": "Other Half",
+    "style": "Green City IPA",
+    "size": "10 oz.",
+    "abv": "7%"
   },
   {
     "type": "yard-bar-draft",
-    "name": "Schofferhofer Hefeweizen Grapefruit Bier",
-    "style": "",
-    "size": ".5L / L"
+    "name": "Schofferhofer",
+    "style": "Hefeweizen grapefruit bier",
+    "size": ".5L / L",
+    "abv": "2.5%"
   },
   {
     "type": "yard-bar-draft",
-    "name": "Paulaner Hefe",
-    "style": "",
-    "size": ".5L / L"
+    "name": "Paulaner",
+    "style": "Hefe-Weizen",
+    "size": ".5L / L",
+    "abv": "5.5%"
   },
   {
     "type": "yard-bar-draft",
-    "name": "Other Half Forever Ever IPA",
-    "style": "",
-    "size": ".5L / L"
+    "name": "Other Half",
+    "style": "Session IPA",
+    "size": ".5L / L",
+    "abv": "4.7%"
   },
   {
     "type": "yard-bar-draft",
-    "name": "STK Rothaus Tannenzapfle Pilsner",
-    "style": "",
-    "size": ".5L / L"
+    "name": "Warsteiner",
+    "style": "Pilsner",
+    "size": ".5L / L",
+    "abv": "4.8%"
   },
   {
     "type": "yard-bar-draft",
-    "name": "Budlight Lime",
-    "style": "",
-    "size": ".5L"
+    "name": "Miller Lite",
+    "style": "Lager American Light",
+    "size": ".5L / L",
+    "abv": "4.2%"
+  },
+  {
+    "type": "yard-bar-draft",
+    "name": "Spaten Munchen",
+    "style": "Helles Lager",
+    "size": ".5L",
+    "abv": "4.8%"
   },
   {
     "type": "yard-bar-draft",
     "name": "Allagash White",
     "style": "",
-    "size": ".5L"
+    "size": ".5L / L",
+    "abv": "5.2%"
   },
   {
     "type": "beer-cocktails",
     "name": "Grapefruit Radler",
     "style": "",
-    "size": ".5L"
+    "size": ".5L",
+    "abv": ""
   },
   {
     "type": "beer-cocktails",
-    "name": "Summer Shandy",
+    "name": "Beer Paloma",
     "style": "",
-    "size": ".5L"
+    "size": ".5L",
+    "abv": ""
   },
   {
     "type": "cans-bottles",
-    "name": "ABC (NA), Local, International, and Rare Finds",
+    "name": "Local, International, Non-Alcoholic and Rare Finds",
     "style": "",
-    "size": ""
+    "size": "",
+    "abv": ""
   },
   {
     "type": "wine",
-    "name": "1 Red, 1 White, 1 Rose",
-    "style": "",
-    "size": "Glass"
+    "name": "Simply",
+    "style": "Cabernet",
+    "size": "Glass",
+    "abv": ""
+  },
+  {
+    "type": "wine",
+    "name": "Dalia",
+    "style": "Pinot Grigio",
+    "size": "Glass",
+    "abv": ""
+  },
+  {
+    "type": "wine",
+    "name": "Gunther Schlink",
+    "style": "Rose of Pinot Noir",
+    "size": "Glass",
+    "abv": ""
+  },
+  {
+    "type": "wine",
+    "name": "Café de Paris",
+    "style": "Sparkling Brut NV (France)",
+    "size": "Glass",
+    "abv": ""
   }
 ]
