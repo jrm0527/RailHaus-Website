@@ -122,13 +122,6 @@
     "type": "yard-bar-draft",
     "name": "Spaten Munchen",
     "style": "Helles Lager",
-    "size": ".5L",
-    "abv": "4.8%"
-  },
-  {
-    "type": "yard-bar-draft",
-    "name": "Allagash White",
-    "style": "",
     "size": ".5L / L",
     "abv": "5.2%"
   },

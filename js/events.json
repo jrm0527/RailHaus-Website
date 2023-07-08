@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2023-07-01",
+    "name": "Shouldn't Show",
+    "time": ""
+  },
+  {
+    "date": "2023-07-07",
+    "name": "Shouldn't Show",
+    "time": ""
+  },
+  {
+    "date": "2023-07-08",
+    "name": "Event 1",
+    "time": ""
+  },
+  {
+    "date": "2023-07-09",
+    "name": "Event 2",
+    "time": ""
+  },
+  {
+    "date": "2023-08-01",
+    "name": "Event 3",
+    "time": ""
+  }
+]

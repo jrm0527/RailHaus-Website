@@ -56,10 +56,43 @@ body {
   padding-bottom: 0;
 }
 
-.paragraph-text {
+.event-container {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+}
+
+.event-item {
+  display: flex;
+  justify-content: space-between;
   font-family: "Outfit", sans-serif;
+  font-weight: 300;
+  padding-bottom: 2%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.date-container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.date-month {
+  font-size: 1rem;
+}
+
+.date-day {
   font-size: 1.5rem;
-  width: 60%;
+}
+
+.event-name {
+  font-size: 1.5rem;
+  align-self: center;
+}
+
+.hide {
+  display: none;
 }
 
 @media (min-width: 280px) {
@@ -84,9 +117,20 @@ body {
     font-size: 1.7rem;
   }
 
-  .paragraph-text {
-    width: 85%;
+  .event-container {
+    width: 80%;
+  }
+
+  .date-month {
     font-size: 1rem;
+  }
+
+  .date-day {
+    font-size: 1.5rem;
+  }
+
+  .event-name {
+    font-size: 1.5rem;
   }
 }
 
@@ -111,9 +155,20 @@ body {
     font-size: 1.7rem;
   }
 
-  .paragraph-text {
-    width: 85%;
-    font-size: 1rem;
+  .event-container {
+    width: 80%;
+  }
+
+  .date-month {
+    font-size: 1.1rem;
+  }
+
+  .date-day {
+    font-size: 1.6rem;
+  }
+
+  .event-name {
+    font-size: 1.6rem;
   }
 }
 
@@ -134,9 +189,20 @@ body {
     font-size: 1.7rem;
   }
 
-  .paragraph-text {
-    width: 85%;
-    font-size: 1rem;
+  .event-container {
+    width: 80%;
+  }
+
+  .date-month {
+    font-size: 1.1rem;
+  }
+
+  .date-day {
+    font-size: 1.6rem;
+  }
+
+  .event-name {
+    font-size: 1.6rem;
   }
 }
 
@@ -159,9 +225,20 @@ body {
     font-size: 1.8rem;
   }
 
-  .paragraph-text {
-    width: 55%;
-    font-size: 1rem;
+  .event-container {
+    width: 70%;
+  }
+
+  .date-month {
+    font-size: 1.2rem;
+  }
+
+  .date-day {
+    font-size: 1.7rem;
+  }
+
+  .event-name {
+    font-size: 1.7rem;
   }
 }
 /* Medium Devices*/
@@ -183,9 +260,20 @@ body {
     font-size: 2.2rem;
   }
 
-  .paragraph-text {
-    width: 55%;
+  .event-container {
+    width: 60%;
+  }
+
+  .date-month {
     font-size: 1.2rem;
+  }
+
+  .date-day {
+    font-size: 1.7rem;
+  }
+
+  .event-name {
+    font-size: 1.7rem;
   }
 }
 /* Large Devices*/
@@ -207,9 +295,20 @@ body {
     font-size: 2.7rem;
   }
 
-  .paragraph-text {
-    width: 60%;
+  .event-container {
+    width: 50%;
+  }
+
+  .date-month {
     font-size: 1.2rem;
+  }
+
+  .date-day {
+    font-size: 1.7rem;
+  }
+
+  .event-name {
+    font-size: 1.7rem;
   }
 }
 
@@ -232,9 +331,20 @@ body {
     font-size: 3rem;
   }
 
-  .paragraph-text {
-    width: 60%;
-    font-size: 1.2rem;
+  .event-container {
+    width: 50%;
+  }
+
+  .date-month {
+    font-size: 1.3rem;
+  }
+
+  .date-day {
+    font-size: 1.8rem;
+  }
+
+  .event-name {
+    font-size: 1.8rem;
   }
 }
 
@@ -256,9 +366,20 @@ body {
     font-size: 4rem;
   }
 
-  .paragraph-text {
-    width: 60%;
-    font-size: 1.5rem;
+  .event-container {
+    width: 45%;
+  }
+
+  .date-month {
+    font-size: 1.3rem;
+  }
+
+  .date-day {
+    font-size: 1.9rem;
+  }
+
+  .event-name {
+    font-size: 1.9rem;
   }
 }
 
@@ -279,7 +400,19 @@ body {
     font-size: 4.5rem;
   }
 
-  .paragraph-text {
+  .event-container {
     width: 40%;
+  }
+
+  .date-month {
+    font-size: 1.3rem;
+  }
+
+  .date-day {
+    font-size: 2rem;
+  }
+
+  .event-name {
+    font-size: 2rem;
   }
 }
