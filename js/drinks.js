@@ -1,10 +1,16 @@
 import drinks from "../js/drinks.json" assert { type: "json" };
 
+let selectedId;
+
 function setupPage() {
   for (let i = 0; i < drinks.length; i++) {
     let drink = drinks[i];
     createDrinkMenu(drink);
   }
+  // for (let i = 1; i < 5; i++) {
+  //   let check = document.getElementById("drink" + i);
+  //   check.addEventListener("click", selectOnlyThis);
+  // }
 }
 
 function createDrinkMenu(drink) {
@@ -23,6 +29,17 @@ function createDrinkMenu(drink) {
 
   const list = document.getElementById(`${drink.type}-list`);
   list.appendChild(li);
+}
+
+function selectOnlyThis() {
+  if (selectedId === this.id) (this.checked = false), (selectedId = null);
+  else {
+    for (var i = 1; i <= 5; i++) {
+      document.getElementById("drink" + i).checked = false;
+    }
+    this.checked = true;
+    selectedId = this.id;
+  }
 }
 
 setupPage();

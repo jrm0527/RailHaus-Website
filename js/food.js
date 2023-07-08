@@ -25,12 +25,8 @@ function createFoodMenu(food) {
   li.appendChild(name);
   li.appendChild(detail);
 
-  let div = document.createElement("div");
-  div.classList.add("tab-content");
-  div.appendChild(li);
-
   const list = document.getElementById(`${food.type}-list`);
-  list.appendChild(div);
+  list.appendChild(li);
 }
 
 setupPage();
