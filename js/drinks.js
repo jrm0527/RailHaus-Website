@@ -1,12 +1,16 @@
-import drinks from "../js/drinks.json" assert { type: "json" };
+// import drinks from "../js/drinks.json" assert { type: "json" };
 
 // let selectedId;
 
 function setupPage() {
-  for (let i = 0; i < drinks.length; i++) {
-    let drink = drinks[i];
-    createDrinkMenu(drink);
-  }
+  fetch("../js/drinks.json")
+    .then((response) => response.json())
+    .then((drinks) => {
+      for (let i = 0; i < drinks.length; i++) {
+        let drink = drinks[i];
+        createDrinkMenu(drink);
+      }
+    });
   // for (let i = 1; i < 5; i++) {
   //   let check = document.getElementById("drink" + i);
   //   check.addEventListener("click", selectOnlyThis);

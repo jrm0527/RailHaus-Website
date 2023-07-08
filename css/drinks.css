@@ -124,8 +124,8 @@ input {
 .list-item {
   display: flex;
   flex-direction: column;
-  list-style-type: none;
   margin-left: 5%;
+  margin-right: 5%;
   font-family: "Outfit", sans-serif;
   font-weight: 300;
   padding-bottom: 1.5%;
@@ -133,19 +133,11 @@ input {
 
 .list-name {
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
-  list-style-type: none;
-  margin-left: 5%;
-  margin-right: 5%;
 }
 .list-detail {
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
-  list-style-type: none;
-  margin-left: 5%;
-  margin-right: 5%;
   font-style: italic;
 }
 
