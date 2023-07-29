@@ -50,10 +50,10 @@
   },
   {
     "type": "main-bar-draft",
-    "name": "Spaten Munchen",
+    "name": "Paulaner",
     "style": "Helles Lager",
     "size": ".5L / L",
-    "abv": "5.2%"
+    "abv": "4.9%"
   },
   {
     "type": "main-bar-draft",
@@ -120,10 +120,10 @@
   },
   {
     "type": "yard-bar-draft",
-    "name": "Spaten Munchen",
+    "name": "Paulaner",
     "style": "Helles Lager",
     "size": ".5L / L",
-    "abv": "5.2%"
+    "abv": "4.9%"
   },
   {
     "type": "beer-cocktails",
