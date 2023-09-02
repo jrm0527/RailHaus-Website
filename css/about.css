@@ -62,6 +62,11 @@ body {
   width: 60%;
 }
 
+.owner-img {
+  width: 250px;
+  height: auto;
+}
+
 @media (min-width: 280px) {
   .navbar {
     width: 220px;
@@ -87,6 +92,10 @@ body {
   .paragraph-text {
     width: 85%;
     font-size: 1rem;
+  }
+
+  .owner-img {
+    width: 85%;
   }
 }
 
@@ -115,6 +124,10 @@ body {
     width: 85%;
     font-size: 1rem;
   }
+
+  .owner-img {
+    width: 85%;
+  }
 }
 
 @media (min-width: 390px) {
@@ -137,6 +150,10 @@ body {
   .paragraph-text {
     width: 85%;
     font-size: 1rem;
+  }
+
+  .owner-img {
+    width: 85%;
   }
 }
 
@@ -163,6 +180,10 @@ body {
     width: 55%;
     font-size: 1rem;
   }
+
+  .owner-img {
+    width: 55%;
+  }
 }
 /* Medium Devices*/
 @media (min-width: 768px) {
@@ -187,6 +208,10 @@ body {
     width: 55%;
     font-size: 1.2rem;
   }
+
+  .owner-img {
+    width: 55%;
+  }
 }
 /* Large Devices*/
 @media (min-width: 992px) {
@@ -210,6 +235,10 @@ body {
   .paragraph-text {
     width: 60%;
     font-size: 1.2rem;
+  }
+
+  .owner-img {
+    width: 60%;
   }
 }
 
@@ -236,6 +265,10 @@ body {
     width: 60%;
     font-size: 1.2rem;
   }
+
+  .owner-img {
+    width: 60%;
+  }
 }
 
 /* X-Large desktop */
@@ -260,6 +293,10 @@ body {
     width: 60%;
     font-size: 1.5rem;
   }
+
+  .owner-img {
+    width: 60%;
+  }
 }
 
 @media (min-width: 2000px) {
@@ -280,6 +317,10 @@ body {
   }
 
   .paragraph-text {
+    width: 40%;
+  }
+
+  .owner-img {
     width: 40%;
   }
 }

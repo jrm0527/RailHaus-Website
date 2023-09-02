@@ -47,9 +47,9 @@
         <li class="nav-item">
           <a class="nav-link" href="./contact.html">Contact Us</a>
         </li>
-        <li class="nav-item">
+        <!-- <li class="nav-item">
           <a class="nav-link" href="./booking.html">Bookings</a>
-        </li>
+        </li> -->
       </nav>
       <img
         class="main-logo"
@@ -58,6 +58,11 @@
       />
       <h1 class="title">FOOD MENU</h1>
       <div class="tabs">
+        <div class="tab">
+          <input type="checkbox" id="rd5" />
+          <label class="tab-label" for="rd5">Starters</label>
+          <div class="tab-content" id="starter-list"></div>
+        </div>
         <div class="tab">
           <input type="checkbox" id="rd1" />
           <label class="tab-label" for="rd1">Wurst</label>
@@ -70,24 +75,32 @@
         </div>
         <div class="tab">
           <input type="checkbox" id="rd3" />
-          <label class="tab-label" for="rd3">Sandwiches</label>
-          <div class="tab-content" id="sandwiches-list"></div>
+          <label class="tab-label" for="rd3">Mains</label>
+          <div class="tab-content" id="mains-list"></div>
         </div>
         <div class="tab">
           <input type="checkbox" id="rd4" />
-          <label class="tab-label" for="rd4">Salads</label>
+          <label class="tab-label" for="rd4">Salads (Seasonal Rotation)</label>
           <div class="tab-content" id="salad-list"></div>
-        </div>
-        <div class="tab">
-          <input type="checkbox" id="rd5" />
-          <label class="tab-label" for="rd5">Snacks</label>
-          <div class="tab-content" id="snack-list"></div>
+          <div class="tab-content">
+            <li class="list-item">
+              <span class="item-name">Mix in:</span>
+              <span class="item-detail">Grilled Chicken</span>
+              <span class="item-detail">Grilled Sausage</span>
+              <span class="item-detail">Schnitzel</span>
+            </li>
+          </div>
         </div>
         <div class="tab">
           <input type="checkbox" id="rd6" />
           <label class="tab-label" for="rd6">Desserts</label>
           <div class="tab-content" id="dessert-list"></div>
         </div>
+        <!-- <div class="tab">
+          <input type="checkbox" id="rd7" />
+          <label class="tab-label" for="rd7">Brunch</label>
+          <div class="tab-content" id="brunch-list"></div>
+        </div> -->
       </div>
     </div>
   </body>
