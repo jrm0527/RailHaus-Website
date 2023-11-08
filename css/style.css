@@ -56,24 +56,18 @@ body {
   padding-top: 5%;
 }
 
-.address-panel {
-  width: 100%;
-  text-align: center;
-  font-weight: lighter;
-}
-
 .header-text {
   font-family: "Londrina Solid", cursive;
   color: white;
   font-size: 1.5rem;
   font-weight: 300;
+  text-align: center;
 }
 
 .social-panel {
   display: flex;
   justify-content: space-between;
   width: 50%;
-  margin-top: 30px;
 }
 
 .social-icon {
@@ -86,13 +80,6 @@ body {
 
 .fa:hover {
   color: #ff6f61;
-}
-
-.hours-panel {
-  width: 100%;
-  text-align: center;
-  font-weight: lighter;
-  margin-top: 30px;
 }
 
 /*
@@ -130,6 +117,10 @@ color: #d4edec  limpet shell
     font-size: 1.7rem;
   }
 
+  .social-panel {
+    width: 40%;
+  }
+
   .social-icon {
     font-size: 2.3rem;
   }
@@ -152,6 +143,10 @@ color: #d4edec  limpet shell
     font-size: 1.9rem;
   }
 
+  .social-panel {
+    width: 35%;
+  }
+
   .social-icon {
     font-size: 2.5rem;
   }
@@ -172,7 +167,11 @@ color: #d4edec  limpet shell
   }
 
   .header-text {
-    font-size: 1.5rem;
+    font-size: 2rem;
+  }
+
+  .social-panel {
+    width: 25%;
   }
 
   .social-icon {
@@ -221,10 +220,8 @@ color: #d4edec  limpet shell
 
   .information-panel {
     flex-direction: row;
-  }
-
-  .address-panel {
-    width: 34%;
+    width: 80%;
+    margin-left: 10%;
   }
 
   .header-text {
@@ -237,10 +234,6 @@ color: #d4edec  limpet shell
 
   .social-icon {
     font-size: 2rem;
-  }
-
-  .hours-panel {
-    width: 34%;
   }
 }
 
@@ -258,8 +251,16 @@ color: #d4edec  limpet shell
     width: 420px;
   }
 
+  .information-panel {
+    width: 90%;
+  }
+
   .header-text {
     font-size: 2rem;
+  }
+
+  .social-panel {
+    width: 15%;
   }
 
   .social-icon {
@@ -281,8 +282,16 @@ color: #d4edec  limpet shell
     width: 680px;
   }
 
+  .information-panel {
+    width: 100%;
+  }
+
   .header-text {
     font-size: 3.5rem;
+  }
+
+  .social-panel {
+    width: 15%;
   }
 
   .social-icon {
