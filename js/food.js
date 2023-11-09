@@ -1,5 +1,3 @@
-// import foods from "../js/food.json" assert { type: "json" };
-
 function setupPage() {
   fetch("../js/food.json")
     .then((response) => response.json())

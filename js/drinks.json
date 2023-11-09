@@ -1,10 +1,10 @@
 [
   {
     "type": "main-bar-draft",
-    "name": "Warsteiner",
-    "style": "Pilsner",
+    "name": "Paulaner",
+    "style": "Munchner",
     "size": ".5L / L",
-    "abv": "4.8%"
+    "abv": "4.9%"
   },
   {
     "type": "main-bar-draft",
@@ -36,51 +36,51 @@
   },
   {
     "type": "main-bar-draft",
-    "name": "Strongbow",
-    "style": "Cider",
-    "size": ".5L / L",
-    "abv": "5%"
+    "name": "Liquid Alchemy",
+    "style": "Dark Cider",
+    "size": "12 oz.",
+    "abv": "7.5%"
   },
   {
     "type": "main-bar-draft",
     "name": "First State",
     "style": "Hazy IPA",
-    "size": "10 oz.",
+    "size": "Pint",
     "abv": "8%"
   },
   {
     "type": "main-bar-draft",
     "name": "Paulaner",
-    "style": "Helles Lager",
+    "style": "Oktoberfest",
     "size": ".5L / L",
-    "abv": "4.9%"
+    "abv": "5.8%"
   },
   {
     "type": "main-bar-draft",
-    "name": "Seasonal Rotator",
+    "name": "Southern Tier Pumpking",
     "style": "",
-    "size": "Pint",
-    "abv": ""
+    "size": "10 oz.",
+    "abv": "8.6%"
   },
   {
     "type": "main-bar-draft",
-    "name": "Dewey Beer",
+    "name": "Misplilion War Llamma",
     "style": "Fruited Sour",
     "size": "10 oz.",
-    "abv": "7.5%"
+    "abv": "5%"
   },
   {
     "type": "main-bar-draft",
-    "name": "Blue Earl",
-    "style": "Honeysuckle Rose Belgian Blonde",
+    "name": "Bell's",
+    "style": "Kölsch",
     "size": "10 oz.",
-    "abv": "7.2%"
+    "abv": "4.5%"
   },
   {
     "type": "main-bar-draft",
     "name": "Other Half",
     "style": "Green City IPA",
-    "size": "10 oz.",
+    "size": "12 oz.",
     "abv": "7%"
   },
   {
@@ -127,50 +127,92 @@
   },
   {
     "type": "beer-cocktails",
-    "name": "Grapefruit Radler",
+    "name": "Paloma Radler",
     "style": "",
     "size": ".5L",
     "abv": ""
   },
   {
     "type": "beer-cocktails",
-    "name": "Beer Paloma",
+    "name": "Black Velvet",
     "style": "",
     "size": ".5L",
     "abv": ""
   },
   {
-    "type": "cans-bottles",
-    "name": "Local, International, Non-Alcoholic and Rare Finds",
+    "type": "cocktails",
+    "name": "'75",
     "style": "",
     "size": "",
     "abv": ""
   },
   {
+    "type": "cocktails",
+    "name": "Seista",
+    "style": "",
+    "size": "",
+    "abv": ""
+  },
+  {
+    "type": "cocktails",
+    "name": "Pear Martini",
+    "style": "",
+    "size": "",
+    "abv": ""
+  },
+  {
+    "type": "cans-bottles",
+    "name": "Miller Lite",
+    "style": "",
+    "size": "12 oz.",
+    "abv": ""
+  },
+  {
+    "type": "cans-bottles",
+    "name": "Athletic Brewing Co",
+    "style": "Non-Alcoholic",
+    "size": "12 oz.",
+    "abv": ""
+  },
+  {
+    "type": "cans-bottles",
+    "name": "Stateside",
+    "style": "Variety",
+    "size": "12 oz.",
+    "abv": ""
+  },
+  {
+    "type": "cans-bottles",
+    "name": "Surfside",
+    "style": "Variety",
+    "size": "12 oz.",
+    "abv": ""
+  },
+  {
+    "type": "cans-bottles",
+    "name": "Dogfish Slightly Mighty",
+    "style": "",
+    "size": "12 oz.",
+    "abv": ""
+  },
+  {
     "type": "wine",
-    "name": "Simply",
-    "style": "Cabernet",
+    "name": "Toschi",
+    "style": "Pinot Noir",
     "size": "Glass",
     "abv": ""
   },
   {
     "type": "wine",
-    "name": "Dalia",
-    "style": "Pinot Grigio",
+    "name": "Raywood",
+    "style": "Sauvignon Blanc",
     "size": "Glass",
     "abv": ""
   },
   {
     "type": "wine",
-    "name": "Gunther Schlink",
-    "style": "Rose of Pinot Noir",
-    "size": "Glass",
-    "abv": ""
-  },
-  {
-    "type": "wine",
-    "name": "Café de Paris",
-    "style": "Sparkling Brut NV (France)",
+    "name": "Wycliff",
+    "style": "Brut",
     "size": "Glass",
     "abv": ""
   }
