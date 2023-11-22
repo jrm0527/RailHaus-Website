@@ -7,7 +7,7 @@
   {
     "type": "wurst",
     "name": "Bratwurst (pork)",
-    "detail": ""
+    "detail": "Brioche bun with sauerkraut and Haus-made “dijonnaise”"
   },
   {
     "type": "wurst",
@@ -17,57 +17,57 @@
   {
     "type": "wurst",
     "name": "Spicy Bauernwurst (Pork & Beef)",
-    "detail": ""
+    "detail": "Light and pleasant heat served on a brioche bun w/ sauerkraut and Haus-made “dijonnaise”"
   },
   {
     "type": "wurst",
     "name": "Weisswurst (Pork & Veal)",
-    "detail": ""
+    "detail": "Veal and pork sausage served with spicy dijon mustard"
   },
   {
     "type": "wurst",
     "name": "Kasekrainer (Beef, Pork, & Cheese)",
-    "detail": ""
+    "detail": "Served on a brioche bun w/ sauerkraut and Haus-made “dijonnaise”"
   },
   {
     "type": "wurst",
     "name": "Frankfurter (Beef)",
-    "detail": ""
+    "detail": "Served on a brioche bun w/ sauerkraut and Haus-made “dijonnaise”"
   },
   {
     "type": "wurst",
     "name": "Beyond Bratwurst (Vegan)",
-    "detail": ""
+    "detail": "Can be served on pita (vegan) or brioche bun (not vegan)"
   },
   {
     "type": "burger",
     "name": "The Standard",
-    "detail": "Half pound burger, muenster, lettuce tomato, red onion, Haus sauce"
+    "detail": "Gouda cheese, lettuce, tomato, red onion, Haus sauce"
   },
   {
     "type": "burger",
     "name": "Foresterie",
-    "detail": "Wild mushrooms, arugula, caramelized onions, Swiss, creamy horseradish"
+    "detail": "Wild mushrooms, swiss, arugula, tomato, caramelized onions"
   },
   {
     "type": "burger",
     "name": "Farm Haus",
-    "detail": "Country ham, applewood smoked bacon, farm fresh egg, muenster, Haus sauce"
+    "detail": "Cheddar cheese, country ham, applewood-smoked bacon, farm egg"
   },
   {
     "type": "burger",
     "name": "The Bavarian",
-    "detail": "Pretzel bun, cheese sauce, bacon, fried onions, Haus sauce"
+    "detail": "Pretzel bun, Haus-made beer cheese, bacon and fried onions"
   },
   {
     "type": "mains",
-    "name": "Schnitzel",
-    "detail": "Red onion, arugula, Kaiser roll"
+    "name": "Schnitzel Sandwich",
+    "detail": "Red onion, honey-lemon vinaigrette on arugula, Haus Dijonnaise, Kaiser roll"
   },
   {
     "type": "mains",
     "name": "Berliner Schnitzel",
-    "detail": "Red onion, arugula, Potato salad"
+    "detail": "Red onion, arugula, with side of Berliner Potato salad"
   },
   {
     "type": "mains",
@@ -75,19 +75,29 @@
     "detail": "Marinated Lamb, Cucumber dill sauce tomato salad, pita, Red onion, arugula, Kaiser roll"
   },
   {
+    "type": "mains",
+    "name": "Falafel Doner",
+    "detail": "Falafel balls, tzatziki sauce, tomato, lettuce, onion on pita"
+  },
+  {
     "type": "salad",
     "name": "Haus salad",
-    "detail": "Seasonal greens, red onion, grape tomatoes cucumber, feta, Croutons, honey vinaigrette"
+    "detail": "Kale, romaine, falafel balls, hummus, red onion, grape tomatoes cucumber, feta, croutons, green goddess dressing"
   },
   {
     "type": "salad",
     "name": "Kale Cesar",
-    "detail": "Kale, shredded Parmesan, grape tomatoes, garlic-onion mix and quinoa.  Tossed in a white balsamic vinaigrette"
+    "detail": "Kale, shredded Parmesan, grape tomatoes, croutons, dill, caesar dressing"
   },
   {
     "type": "salad",
     "name": "Berliner Potato Salad",
-    "detail": "Bacon, caramelized onions, Dijonnaise"
+    "detail": "Fingerlings, bacon, caramelized onions, dijonnaise"
+  },
+  {
+    "type": "starter",
+    "name": "German Pretzel Bites",
+    "detail": "Pretzel Bites w/ beer cheese & mustard for dipping"
   },
   {
     "type": "starter",
@@ -97,61 +107,41 @@
   {
     "type": "starter",
     "name": "Bavarian Pretzel",
-    "detail": "Served with multi grain mustard, cheese sauce"
+    "detail": "10-ounce Bavarian Pretzel"
   },
   {
     "type": "starter",
     "name": "Hummus",
-    "detail": "Crostini, olives, feta, olive oil, red onions"
+    "detail": "Hummus, pita bread, pickles, olives, red onions, olive oil"
   },
   {
     "type": "starter",
-    "name": "Herb Sidewinders Fries",
-    "detail": "Muti grain mustard, cheese sauce"
+    "name": "Haus Fries",
+    "detail": "Sidewinder beer battered fries"
   },
   {
     "type": "dessert",
-    "name": "Cinnamon Bavarian Bites",
-    "detail": "Cinnamon sugar, Ganache"
+    "name": "Cinnamon Sugar Pretzel Bites",
+    "detail": "Cinnamon and sugar pretzel bites served with chocolate ganache"
   },
   {
     "type": "dessert",
     "name": "German Chocolate Cake",
-    "detail": "Beer Chantilly cream"
+    "detail": "Cake from local Tiffanee & Co. Bakery with Haus-made sweet Guiness Gastrique"
   },
   {
-    "type": "brunch",
-    "name": "Traditional Schnitzel",
-    "detail": "German potato salad | Arugula salad | mustard vinaigrette"
+    "type": "kid",
+    "name": "Chicken Tenders + Haus Fries",
+    "detail": ""
   },
   {
-    "type": "brunch",
-    "name": "Avocado Toast",
-    "detail": "local tomatoes | pickled onion | chili(add fried egg or sausage) (v)"
+    "type": "kid",
+    "name": "Cheeseburger + Haus Fries",
+    "detail": ""
   },
   {
-    "type": "brunch",
-    "name": "Seasonal Pancakes",
-    "detail": "blueberries | maple syrup (vg)"
-  },
-  {
-    "type": "brunch",
-    "name": "Hangover Special",
-    "detail": "chicken sausage | bacon | homefries Hausfries | mushrooms | kimchi | spicy tomato sauce | eggs"
-  },
-  {
-    "type": "brunch",
-    "name": "Wurst and Eggs",
-    "detail": "Bratwurst | sunny side up eggs | homefries Hausfries | chimichurri"
-  },
-  {
-    "type": "brunch",
-    "name": "Breakfast Burger",
-    "detail": "Choose protein| fried egg | cheddar cheese | applewood bacon | special sauce haus sauce"
-  },
-  {
-    "type": "brunch",
-    "name": "Yogurt Bowl",
-    "detail": "Plain yogurt | local fruit | granola | honey"
+    "type": "kid",
+    "name": "Frankfurter Bites + Haus Fries",
+    "detail": "Haass' Family Butcher Shop all beef Frankfurter - bite sized for kids"
   }
 ]

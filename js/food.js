@@ -23,6 +23,7 @@ function createFoodMenu(food) {
   li.appendChild(name);
   li.appendChild(detail);
 
+  console.log(`${food.type}-list`);
   const list = document.getElementById(`${food.type}-list`);
   list.appendChild(li);
 }
