@@ -2,7 +2,7 @@
   {
     "type": "wurst",
     "name": "Wurst",
-    "detail": "Served with multi grain mustard, sauerkraut, pickle"
+    "detail": "Served with multi grain mustard, sauerkraut"
   },
   {
     "type": "wurst",
@@ -12,7 +12,7 @@
   {
     "type": "wurst",
     "name": "Currywurst",
-    "detail": "Sliced, Ketchup, Curry, sauerkraut, pickle"
+    "detail": "Sliced, Ketchup, Curry, sauerkraut"
   },
   {
     "type": "wurst",
@@ -37,7 +37,7 @@
   {
     "type": "wurst",
     "name": "Beyond Bratwurst (Vegan)",
-    "detail": "Can be served on pita (vegan) or brioche bun (not vegan)"
+    "detail": "Can be served on pita (vegan) or pretzel bun (not vegan)"
   },
   {
     "type": "burger",
@@ -72,7 +72,7 @@
   {
     "type": "mains",
     "name": "German Street Doner",
-    "detail": "Marinated Lamb, Cucumber dill sauce tomato salad, pita, Red onion, arugula, Kaiser roll"
+    "detail": "Marinated pork fresh from Haass Family Butcher Shop, Cucumber dill sauce tomato salad, pita, Red onion, arugula on Pita"
   },
   {
     "type": "mains",
@@ -107,12 +107,12 @@
   {
     "type": "starter",
     "name": "Bavarian Pretzel",
-    "detail": "10-ounce Bavarian Pretzel"
+    "detail": "10-ounce Bavarian Pretzel with two dips"
   },
   {
     "type": "starter",
     "name": "Hummus",
-    "detail": "Hummus, pita bread, pickles, olives, red onions, olive oil"
+    "detail": "Hummus, pita bread, olives, red onions, olive oil"
   },
   {
     "type": "starter",
