@@ -143,6 +143,7 @@ input {
 
 .item-name {
   text-align: left;
+  font-weight: bold;
 }
 
 .item-size {
