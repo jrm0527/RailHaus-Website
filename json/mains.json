@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Schnitzel Sandwich",
+    "description": "Comes with small side of Haus fries\nPork schnitzel fresh from Haass Family Butcher Shop, red onion, honey-lemon vinaigrette on arugula, Haus Dijonnaise sauce on kaiser roll"
+  },
+  {
+    "name": "German Street Doner",
+    "description": "Comes with small side of Haus fries\nMarinated pork from Haass Family Butcher Shop with tzatziki sauce, tomato, red cabbage, and lettuce on pita"
+  },
+  {
+    "name": "German Street Doner w/ Chicken",
+    "description": "Comes with small side of Haus fries\nMarinated & seasoned chicken breast with tzatziki sauce, tomato, red cabbage, and lettuce on pita. Comes with small side of Haus fries"
+  },
+  {
+    "name": "Falafel Doner",
+    "description": "Comes with small side of Haus fries\nFalafel balls, tzatziki sauce, tomato, red cabbage and lettuce on pita"
+  },
+  {
+    "name": "Berliner Schnitzel",
+    "description": "Pork schnitzel fresh from Haass Family Butcher Shop, red onion, arugula with side of Berliner potato salad"
+  }
+]

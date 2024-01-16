@@ -1,0 +1,22 @@
+[
+  {
+    "name": "German Pretzel Bites",
+    "description": "Pretzel Bites w/ beer cheese or obatzda cheese for dipping!"
+  },
+  { "name": "Bavarian Pretzel", "description": "10-ounce Bavarian Pretzel" },
+  {
+    "name": "Hummus Plate",
+    "description": "hummus, pita bread, cucumbers, olives, red onions, olive oil."
+  },
+  { "name": "Haus Fries", "description": "sidewinder beer battered fries" },
+  {
+    "name": "Party Board",
+    "description": "any three sausages, pretzel bites, haus fries, haus sauce, mustard, haus beer cheese sauce"
+  },
+  {
+    "name": "Chicken Tenders",
+    "description": "4 breaded chicken tenders for kids of all ages. Includes fries"
+  },
+  { "name": "Side of Haus Beer Cheese Sauce", "description": null },
+  { "name": "Side of Obatzda Cheese Dip", "description": null }
+]

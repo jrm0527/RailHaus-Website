@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Bratwurst",
+    "description": "This pork sausage is America's favorite German wurst\nBrioche bun with sauerkraut and Haus dijonnaise which is mayo, mustard and vinegar."
+  },
+  {
+    "name": "Spicy Bauernwurst",
+    "description": "pork and beef sausage w/ a light and pleasant heat\nServed on a brioche bun w/ sauerkraut and haus-made “dijonnaise” which is mayo, mustard and vinegar."
+  },
+  {
+    "name": "Kasekrainer",
+    "description": "beef & pork sausage, studded with cheddar cheese\nServed on a brioche bun w/ sauerkraut and haus-made “dijonnaise” which is mayo, mustard and vinegar."
+  },
+  {
+    "name": "Frankfurter",
+    "description": "the best beef hot dog you've ever had\nServed on a brioche bun w/ sauerkraut and haus-made “dijonnaise” which is mayo, mustard and vinegar."
+  },
+  {
+    "name": "Veggie Bratwurst",
+    "description": "\"Beyond\" bratwurst\nvegan & plant based sausage\nCan be served on pita (vegan) or pretzel hot dog bun (not vegan)"
+  },
+  { "name": "Currywurst", "description": "sliced frankfurter, ketchup, curry" }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "The Standard",
+    "description": "Comes with small side of Haus fries\nBurger w/ Gouda cheese, lettuce, tomato, red onion, Haus sauce\nHaus Sauce is signature sauce of kraut, ketchup, dijonaise, and brown mustard"
+  },
+  {
+    "name": "Farm Haus",
+    "description": "Comes with small side of Haus fries\nBurger, Cheddar cheese, country ham, applewood-smoked bacon, farm egg"
+  },
+  {
+    "name": "Bavarian",
+    "description": "Comes with small side of Haus fries\nPretzel bun, burger, Haus-made beer cheese, bacon and fried onions"
+  }
+]
