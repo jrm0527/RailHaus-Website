@@ -1,14 +1,18 @@
 [
   {
+    "name": "Crispy Wings",
+    "description": "6 wings fried to crispy perfection tossed with your choice of Haus BBQ, Haus Buffalo, or our Haus Spicy Dry rub. Combine BBQ or Buffalo with Spicy Dry Rub and get Rail BBQ or Rail Hot. Served with a side of ranch."
+  },
+  {
     "name": "German Pretzel Bites",
     "description": "Pretzel Bites w/ beer cheese or obatzda cheese for dipping!"
   },
   { "name": "Bavarian Pretzel", "description": "10-ounce Bavarian Pretzel" },
+  { "name": "Haus Fries", "description": "sidewinder beer battered fries" },
   {
     "name": "Hummus Plate",
     "description": "hummus, pita bread, cucumbers, olives, red onions, olive oil."
   },
-  { "name": "Haus Fries", "description": "sidewinder beer battered fries" },
   {
     "name": "Party Board",
     "description": "any three sausages, pretzel bites, haus fries, haus sauce, mustard, haus beer cheese sauce"
