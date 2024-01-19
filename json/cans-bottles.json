@@ -1,0 +1,22 @@
+[
+  { "name": "Miller Lite", "description": null },
+  {
+    "name": "New Belgium Holiday Ale",
+    "description": "Tis the season for delicious flavors of cranberry and orange, cinnamon and spice, for everyone naughty and nice! \nHoliday Ale comes in a can and is 7.5% ABV."
+  },
+  {
+    "name": "Athletic Brewing Company",
+    "description": "non alcoholic beer from one of the top breweries in the country"
+  },
+  { "name": "Stateside Seltzer", "description": null },
+  { "name": "Surfside Iced Tea & Vodka", "description": null },
+  { "name": "Dogfish Slightly Mighty", "description": null },
+  {
+    "name": "Weihenstephaner Original Lager",
+    "description": "Light & Clean Helles Lager from the world's oldest brewery"
+  },
+  {
+    "name": "Weihenstephaner Vitus Weizenbock",
+    "description": "True & Strong, Vitus WeizenBock (extra strong wheat beer) is ranked #2 in the world and is brewed at the world's oldest brewery"
+  }
+]

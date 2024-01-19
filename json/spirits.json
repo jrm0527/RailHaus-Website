@@ -1,0 +1,24 @@
+[
+  { "name": "Stateside", "description": null },
+  { "name": "Tito's", "description": null },
+  {
+    "name": "Jaeger Bomb",
+    "description": "Relive your college days w/ frosty Jaeger and a Red Bull pick-me-up!!"
+  },
+  { "name": "Tanqueray London Gin", "description": null },
+  { "name": "Bluecoat Gin", "description": null },
+  { "name": "Captain Morgan Spiced Rum", "description": null },
+  { "name": "Bacardi Rum", "description": null },
+  { "name": "Jameson Irish Whiskey", "description": null },
+  { "name": "Bulleit Straight Rye Whiskey", "description": null },
+  { "name": "Libelula Joven", "description": null },
+  { "name": "Banhez Mezcal", "description": null },
+  { "name": "Disaronno Amaretto", "description": null },
+  { "name": "Mr Black Liq Cold Brew Coffee", "description": null },
+  { "name": "Combier Liq Orange", "description": null },
+  { "name": "Combier Liq Elderflower", "description": null },
+  { "name": "Campari Aperitivo 48", "description": null },
+  { "name": "Aperol Aperitivo 22", "description": null },
+  { "name": "Martini & Rossi Vermouth Rosso", "description": null },
+  { "name": "Martini & Rossi Vermouth Extra Dry", "description": null }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Schofferhofer (Hefeweizen Grapefruit Bier)",
+    "description": "German engineering at its best brings us this efficient and delicious mix of grapefruit and hefeweizen\nABV 2.5%"
+  },
+  {
+    "name": "Paulaner Hefeweizen",
+    "description": "Taste the best-selling Weissbier in Germany\nABV 5.5%"
+  },
+  {
+    "name": "Paulaner Oktoberfest",
+    "description": "This amber style Marzen lager was developed 200 years ago and tastes just as good today\nABV 5.8%"
+  },
+  {
+    "name": "Warsteiner Dunkel Lager",
+    "description": "Enjoy this smooth & dark lager with all of the roasty-toasty notes you know you love\nABV 4.8%"
+  },
+  {
+    "name": "Paulaner Muenchner Lager",
+    "description": "Helles, the original Munich lager and best-selling beer at Oktoberfest!\nABV 4.9%"
+  },
+  { "name": "Oskar Blues Dales Pilsner", "description": null },
+  {
+    "name": "Guinness Stout",
+    "description": "Looks dark and tough, but drinks smooth and light. The original nitro stout served in its iconic pint glass\nABV 4.2%"
+  },
+  { "name": "Liquid Alchemy (Dark Cider)", "description": "ABV 7.5%" },
+  {
+    "name": "Other Half DDH Green City",
+    "description": "Green City has juicy notes of peach rings, grapefruit, mango, and tropical candies. Loaded with oats for a creamy body that’s not too sweet. It is a 6.8% IPA served in a snifter."
+  },
+  {
+    "name": "Shiner Cheer",
+    "description": "Peach & Pecan Holiday Ale. It’s like Christmas in a pint!\nABV: 5.4%"
+  },
+  {
+    "name": "Dewey Beer Strawberry Pretzel Salad Sour",
+    "description": "4% Fruited Gose sour brewed with strawberries, pretzels, and cream. Inspired by one of Delawares favorite desserts. Smooth, and tart, with sweet notes."
+  },
+  {
+    "name": "First State Double Cryptic Cypher",
+    "description": "8% West Coast IPA tried-and-true Cascade, Centennial, Citra, & Chinook hops. Assertive, yet balanced, bitterness meets floral notes of grapefruit, pine, citrus, & resin."
+  }
+]
