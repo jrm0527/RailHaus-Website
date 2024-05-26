@@ -1,14 +1,42 @@
 [
   {
-    "name": "'92",
-    "description": "Kinda like a French 75, with gin, fresh orange juice & sparkling wine"
+    "name": "Blueberry Lemon Sidecar",
+    "description": "A twist on your classic Sidecar. Blueberry syrup, Brandy, Triple Sec, and fresh lemon juice. Served chilled in a sugar rimmed rocks glass."
   },
   {
     "name": "Siesta",
     "description": "Light and refreshing w/ Libelula tequila, Campari, fresh grapefruit juice, fresh lime juice, simple, and club soda"
   },
   {
-    "name": "Pear Martini",
-    "description": "vodka, spiced pear simple syrup, haus sour mix, combier elderflower liquer"
+    "name": "Aperol Spritz",
+    "description": "Aperol, prosecco, and soda make up this delicious apertif. Served in a German bier glass."
+  },
+  {
+    "name": "Peach Martini",
+    "description": null
+  },
+  {
+    "name": "Mimosas By the Bottle",
+    "description": "Bottle of Merum Prosecco and your choice of juice."
+  },
+  {
+    "name": "Haus Margarita",
+    "description": "Classic Cocktail - we make it how you like it!"
+  },
+  {
+    "name": "Espresso Martini",
+    "description": "vodka, Irish cream, espresso concentrate, simple syrup and coffee liqueur."
+  },
+  {
+    "name": "Mimosa",
+    "description": "A true classic, prosecco topped with orange juice."
+  },
+  {
+    "name": "Strawberries and Cream Daiquiri",
+    "description": "The Strawberry Daiquiri is served frozen. Rum, lime, simple syrup and several strawberries are combined with ice and blended until smooth. This icy treat provides the invigorating profile of a fresh smoothie, with the added bonus of alcohol. Served in a plastic 16 oz cup, topped with whipped cream."
+  },
+  {
+    "name": "Lemon Drop Martini",
+    "description": "This cocktail contains Stateside vodka, lemon juice, triple sec, and simple syrup. The glass is rimmed with sugar and garnished with a lemon peel."
   }
 ]

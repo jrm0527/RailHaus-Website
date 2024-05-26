@@ -1,10 +1,18 @@
 [
   {
-    "name": "Paloma Radler",
+    "name": "Beerloma",
     "description": "A grapefruit margarita and a hefeweizen had a baby. Served in a .5L over ice."
   },
   {
     "name": "Black Velvet",
     "description": "Guinness, coffee liqueur, wyclif brut sparkling"
+  },
+  {
+    "name": "Beermosa",
+    "description": "Jazz up our Paulaner Hefe with a splash of OJ, topped with Prosecco! The perfect breakfast beverage for the beer lover."
+  },
+  {
+    "name": "Original Radler",
+    "description": "Homage to the original Radler. 50/50 mix of wheat beer and your choice of lemonade or orange soda."
   }
 ]

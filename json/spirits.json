@@ -2,23 +2,44 @@
   { "name": "Stateside", "description": null },
   { "name": "Tito's", "description": null },
   {
-    "name": "Jaeger Bomb",
-    "description": "Relive your college days w/ frosty Jaeger and a Red Bull pick-me-up!!"
+    "name": "Western Son Lemon Vodka",
+    "description": "The best zest in the West, our Lemon Vodka is juicy and refreshing. With a scent of freshly picked citrus and a crisp, semi-sweet flavor profile, this naturally flavored vodka is the perfect blend of invigorating taste."
+  },
+  {
+    "name": "Jaeger",
+    "description": "Out of stock"
   },
   { "name": "Tanqueray London Gin", "description": null },
   { "name": "Bluecoat Gin", "description": null },
   { "name": "Captain Morgan Spiced Rum", "description": null },
   { "name": "Bacardi Rum", "description": null },
+  {
+    "name": "Christian Brothers Brandy",
+    "description": "Served neat or chilled."
+  },
   { "name": "Jameson Irish Whiskey", "description": null },
-  { "name": "Bulleit Straight Rye Whiskey", "description": null },
   { "name": "Libelula Joven", "description": null },
-  { "name": "Banhez Mezcal", "description": null },
+  { "name": "Bulleit Straight Rye Whiskey", "description": null },
   { "name": "Disaronno Amaretto", "description": null },
+  { "name": "Banhez Mezcal", "description": null },
   { "name": "Mr Black Liq Cold Brew Coffee", "description": null },
   { "name": "Combier Liq Orange", "description": null },
   { "name": "Combier Liq Elderflower", "description": null },
   { "name": "Campari Aperitivo 48", "description": null },
-  { "name": "Aperol Aperitivo 22", "description": null },
   { "name": "Martini & Rossi Vermouth Rosso", "description": null },
-  { "name": "Martini & Rossi Vermouth Extra Dry", "description": null }
+  { "name": "Martini & Rossi Vermouth Extra Dry", "description": null },
+  { "name": "Aperol Aperitivo 22", "description": null },
+  { "name": "Lemon Drop Shot", "description": null },
+  {
+    "name": "White Tea Shot",
+    "description": "Stateside Vodka, Peach Schnapps, Sour Mix, Sprite"
+  },
+  {
+    "name": "Green Tea Shot",
+    "description": "Jameson, Peach Schnapps, Haus Sour, Sprite"
+  },
+  {
+    "name": "Pineapple Upside Down Cake Shot",
+    "description": "Stateside Vodka, Pineapple Juice, Grenadine"
+  }
 ]

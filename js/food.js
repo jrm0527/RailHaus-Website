@@ -1,5 +1,6 @@
 const menus = [
   "burgers",
+  "breakfast-sandwiches",
   "desserts",
   "kids",
   "mains",

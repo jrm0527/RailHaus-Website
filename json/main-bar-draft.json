@@ -16,29 +16,48 @@
     "description": "Enjoy this smooth & dark lager with all of the roasty-toasty notes you know you love\nABV 4.8%"
   },
   {
+    "name": "Other Half DDH Green Cityr",
+    "description": "Our flagship IPA, Green City has juicy notes of peach rings, grapefruit, mango, and tropical candies. Loaded with oats for a creamy body that’s not too sweet. Has Centennial, Citra, and Simcoe hops. Served in a snifter with an ABV of 7%"
+  },
+  {
     "name": "Paulaner Muenchner Lager",
     "description": "Helles, the original Munich lager and best-selling beer at Oktoberfest!\nABV 4.9%"
   },
-  { "name": "Oskar Blues Dales Pilsner", "description": null },
   {
     "name": "Guinness Stout",
     "description": "Looks dark and tough, but drinks smooth and light. The original nitro stout served in its iconic pint glass\nABV 4.2%"
   },
   { "name": "Liquid Alchemy (Dark Cider)", "description": "ABV 7.5%" },
   {
-    "name": "Other Half DDH Green City",
-    "description": "Green City has juicy notes of peach rings, grapefruit, mango, and tropical candies. Loaded with oats for a creamy body that’s not too sweet. It is a 6.8% IPA served in a snifter."
+    "name": "Evil Genius I Said What I Said",
+    "description": "Key Lime Margarita Sour. Salt rims are for cans too. This light blonde ale has been fermented with a special hybrid sour yeast for the perfect level of acidic tartness and then dosed with natural margarita flavor. No blender required.\nMalts: Acidulated, Pale, Wheat\nHops: Pahto\nServed in a pint with an ABV of 5%"
   },
   {
-    "name": "Shiner Cheer",
-    "description": "Peach & Pecan Holiday Ale. It’s like Christmas in a pint!\nABV: 5.4%"
+    "name": "Evil Genius #Adulting",
+    "description": "Adulting is our Guava-infused IPA! Pale and crystal malts marry perfectly with Citra & Cascade hops, creating an easy drinking, creamy, medium-bodied, clean, smooth IPA. It is then infused with all-natural guava, turning this already delicious IPA into something truly unique. Big, bold hop notes of tropical fruit, watermelon, and lemon, balanced perfectly by a slightly sweet malt backbone and juicy, refreshing guava. Served in a pint with an ABV of 6.8%"
   },
   {
-    "name": "Dewey Beer Strawberry Pretzel Salad Sour",
-    "description": "4% Fruited Gose sour brewed with strawberries, pretzels, and cream. Inspired by one of Delawares favorite desserts. Smooth, and tart, with sweet notes."
+    "name": "Troegs Sunshine Pilsner",
+    "description": "It takes the right ingredients, people, and processes to nail the complex balance of two-row barley, zesty Saaz hops and lager yeast. Secondary fermentation creates natural carbonation that delivers soft notes of fresh-cut straw and flowering herbs. In the end, this bright and refreshingly clean American craft pilsner is our go-to when the sun is shining and makes us happy when skies are gray. Served in a pint with an ABV of 4.5%."
   },
   {
-    "name": "First State Double Cryptic Cypher",
-    "description": "8% West Coast IPA tried-and-true Cascade, Centennial, Citra, & Chinook hops. Assertive, yet balanced, bitterness meets floral notes of grapefruit, pine, citrus, & resin."
+    "name": "Troegs Lollihop DIPA",
+    "description": "When we make our annual pilgrimage to the hop-growing hotbed of Yakima Valley, we’re like kids in a candy store. We eyeball the hops on the bines, crush them in our hands and rub them til their oils fill the air. LolliHop brings together three of our favorites. Dry-hopping with Citra and Mosaic layers in notes of orange, grapefruit and melon, while Azacca in the kettle adds hints of papaya and pineapple. Locally harvested rustic pale malt provides the backbone, and wheat and oats make this beer silky smooth with a touch of haze. 8 ounce pour with an ABV of 8.2%."
+  },
+  {
+    "name": "First State Pure Iration",
+    "description": "You’ll feel nothing but Pure Iration when you taste this collab with our friends over at Beerscovery! For this Double Dry-Hopped Hazy Double IPA we featured a juicy cornucopia of hops including: Mosaic, Citra, Sabro, Strata, & BRU-1. Tropical notes of coconut, stone fruit, passion fruit, mango, pineapple, & grapefruit float over a silky base of Pilsen, Oats, & Wheat. Served in a snifter."
+  },
+  {
+    "name": "Bitburger Premium Pilsner",
+    "description": "The perfected delight of pilsener with an accent of hops, combined with ease and elegance, and a crystal-clear, sunny straw-colour and long-lasting, fine head: brewed for almost two hundred years from the finest raw ingredients according to the German purity law, it's not for nothing that our Bitburger Premium Pils is the most popular draft beer in Germany. Its freshly-drawn flavour makes our Premium beer so well-loved. Served in a pint with an ABV of 4.8%"
+  },
+  {
+    "name": "Tired Hands Ourison",
+    "description": "Ourison represents the progression and evolution of our Saison fermentation program. Ourison is Our Saison, SaisonHands, left to condition in oak and then allowed to fully express itself via a lengthy bottle conditioning period. The end result is a highly refined snappy and pungent Saison that, I feel, is one of the most simplistic and exciting iterations of Saison that we have ever produced."
+  },
+  {
+    "name": "Benediktiner Weissbier",
+    "description": "The full wheaty taste of Benediktiner Weissbier is complemented by a bright amber colour, uniform opacity and a light foam head with extra-fine bubbles.\nAll the while balancing a gentle tingling and citrusy effervescence, this is specialty beer at its most expressive. Served in a .5L heffe glass with a ABV of 5.4%\nKeeping calm, making time to do good things, taking the greatest care with everything, and having respect for everything and everyone. These values are key to the way of life for Benedictine monks, and these principles also characterise the production and enjoyment of Benediktiner beer. Both our top-fermented Benediktiner Weissbier (wheat beer) and our bottom-fermented Benediktiner Hell lager are brewed follow original traditional recipes from Benedictine monks, using local brewing yeast from the town of Ettal and overseen by a special brewery guard. Forming an extraordinarily good experience, Benediktiner beers are so close to heaven, but still no stranger to earth.\nBenediktiner’s premium beers are brewed following original Benedictine recipes using special brewing yeast from the village of Ettal. The beer is brewed under licence from Benediktiner Weissbräu GmbH in the town of Lich."
   }
 ]

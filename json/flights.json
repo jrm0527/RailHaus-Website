@@ -2,5 +2,9 @@
   {
     "name": "German Flight",
     "description": "We have lift off! Can't decide which is your favorite? We have you covered. Try our 4 most popular beers: \n1. Schofferhofer Hefeweizen Grapefruit Bier\n2. Paulaner Muenchner Lager\n3. Paulaner Oktoberfest\n4. Warsteiner Dunkel Lager"
+  },
+  {
+    "name": "Local Craft Beer Flight",
+    "description": "Looking for something besides German beer? We have you covered with a local craft flight. Now you can order four of our local favorites!\n1. LAB Light Cider\n2. Other Half Forever Ever\n3. First State Excited Beeps\n4. Burley Oak Sorry Chickie\nEnjoy! No substitutions."
   }
 ]

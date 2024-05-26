@@ -1,12 +1,18 @@
 [
-  { "name": "Toschi Pinot Noir", "description": null },
   {
-    "name": "Guiliana Rosati Pinot Grigio",
-    "description": "A crisp & clean Pinot Grigio from Italy… kinda close to Germany…"
+    "name": "Rayun Cabernet Sauvignon",
+    "description": "Rayun Cabernet Sauvignon is a ruby red wine with aromas of red fruits such as strawberries and fresh plums. In the mouth, it presents soft and round tannins. It is very easy to drink, and has a long and pleasant aftertaste."
   },
-  { "name": "Sparkling Wycliff Brut", "description": null },
   {
-    "name": "Warm Spiced Wine (Gluhwein)",
-    "description": "Haus-made spiced red wine with a secret blend of warming spices… and a kick of brandy. A traditional German winter specialty!"
+    "name": "Peter Mertes German Riesling",
+    "description": "Crafted in the well-respected Rheinhessen region of Germany, this quality Riesling is crisp, clean and easy drinking. Floral and fruit aromas suggest sweet melon and honey with enough acidity to ensure a beautifully balanced and versatile wine."
+  },
+  {
+    "name": "Ali Sangiovese Toscana Rose",
+    "description": "Donna Laura Ali Rosato is a pure Sangiovese showing a light pink color. The nose displays hints of strawberry, red cherry and pink grapefruit. The palate is fresh and has a pleasant and long lasting finish."
+  },
+  {
+    "name": "Merum Prosecco",
+    "description": null
   }
 ]
