@@ -1,10 +1,6 @@
 [
   { "name": "Miller Lite", "description": null },
   {
-    "name": "Tecate",
-    "description": "A well balanced bright golden lager beer with a malt crisp flavor, low to medium bitterness that finishes clean. Born on the western bicultural borderland of Baja California, Mexico. Served with a lime."
-  },
-  {
     "name": "Buenaveza Salt and Lime Lager",
     "description": "Stone Buenaveza Salt & Lime Lager was born here in Southern California, which is vibrantly influenced by our neighbors to the south. SoCal's warm weather lends itself to outdoor activities year-round. From surfing our coasts, to snowboarding and biking in the mountains, off-roading through deserted lands, or boating and fishing in our lakes and rivers, this Baja-inspired lager is the perfect companion. Brewed with just the right amount of lime and sea salt, it’s everything a lager should be – crisp, refreshing and full of flavor."
   },
@@ -20,33 +16,39 @@
     "name": "Athletic Upside Dawn",
     "description": "N/A beer from one of the top breweries in the country. Must be 21 to consume."
   },
-  { "name": "Surfside Iced Tea & Vodka", "description": null },
-  { "name": "Stateside Seltzer", "description": null },
+  { "name": "Bud Light", "description": null },
   { "name": "Surfside Lemonade & Vodka", "description": null },
   {
     "name": "Weihenstephaner Vitus Weizenbock",
     "description": "True & Strong, Vitus WeizenBock (extra strong wheat beer) is ranked #2 in the world and is brewed at the world's oldest brewery"
   },
-  { "name": "Bud Light", "description": null },
   {
-    "name": "Weihenstephaner Original Lager",
-    "description": "Light & Clean Helles Lager from the world's oldest brewery"
-  },
-  {
-    "name": "Bud Light Lime",
-    "description": "This refreshingly crisp beer with a citrus twist has a delicious balance of tart and sweet. The perfect lager for easy-drinking occasions under the sun. 12 oz can with an ABV of 4.2%"
-  },
-  {
-    "name": "Devil's Backbone Orange Smash Crush",
-    "description": "The original Orange Smash from the shoreside vacation of your dreams.\nWe craft this fan-favorite cocktail with premium vodka, real orange juice, lemon lime flavors, and refreshing bubbles. Add in an \"out of office\" message and you're on your way to a nice little vacay!\nPremium vodka, real orange juice, lemon lime flavors and bubbles.\n12 oz can, with an ABV of 10%"
+    "name": "Bitburger Pilsner Euros",
+    "description": "1 pint can of Bitburger Pilsner Euros edition. 4.8% ABV."
   },
   {
     "name": "Shiner Lemonade Shandy",
     "description": "Brewed with premium 2 row, wheat malts, and agave to offer a medium bodied, crisp beer with a hint of citrus. After fermentation this easy-drinking brew is blended with Spoetzl's own lemonade, made with juicy lemons and cane sugar to create a sweet yet refreshing beer perfect for Summertime. 12 oz can with an ABV of 4.2%"
   },
   {
-    "name": "The Long Drink Peach",
-    "description": "The Finnish Long Drink Peach is made with real gin and sparkling peach flavor, creating mildly sweet tasting notes that are both fresh and fruity. Born out of a need to cater to guests of the 1952 Olympic Games in Helsinki, long drinks are now the best-selling category of liquor in the country. Endorsed by Miles Teller. Comes in a 12 oz can, with an ABV of 5.5%"
+    "name": "Bud Light Lime",
+    "description": "This refreshingly crisp beer with a citrus twist has a delicious balance of tart and sweet. The perfect lager for easy-drinking occasions under the sun. 12 oz can with an ABV of 4.2%"
+  },
+  {
+    "name": "The Long Drink Zero Sugar",
+    "description": "Finnish Long Drink citrus soda with an ABV of 5%"
+  },
+  {
+    "name": "Devil's Backbone Orange Smash Crush",
+    "description": "The original Orange Smash from the shoreside vacation of your dreams.\nWe craft this fan-favorite cocktail with premium vodka, real orange juice, lemon lime flavors, and refreshing bubbles. Add in an \"out of office\" message and you're on your way to a nice little vacay!\nPremium vodka, real orange juice, lemon lime flavors and bubbles.\n12 oz can, with an ABV of 10%"
+  },
+  {
+    "name": "Cutwater Tiki Rum Punch",
+    "description": "A Spirited Tiki Escape. Real Rum. Featuring our award-winning rum and sparkling orange-passionfruit fruit punch. Enjoy layers of tropical notes over ice or straight from our can.﻿ Gluten free, comes in a 12 oz can, and has an ABV of 7%"
+  },
+  {
+    "name": "The Long Drink Original",
+    "description": "Traditional citrus with an ABV of 5%."
   },
   {
     "name": "Devil's Backbone Lemonade Smash Crush",
@@ -57,27 +59,15 @@
     "description": "It all started in an old ice cream shop on the boardwalk with a couple of friends who quit their jobs and moved to the beach. We wanted to live a life as free-spirited as our hometown. With some tea leaves, two kegs, and our toes in the sand, we began crafting a little taste of Ocean City sunshine, and from there, Hoop Tea was born. Our original spiked iced tea is a classic flavor you know and love. Pour it over ice with a freshly squeezed lemon and taste the sunshine in every sip. 12 oz can, with an ABV of 5%."
   },
   {
-    "name": "Cutwater Tiki Rum Punch",
-    "description": "A Spirited Tiki Escape. Real Rum. Featuring our award-winning rum and sparkling orange-passionfruit fruit punch. Enjoy layers of tropical notes over ice or straight from our can.﻿ Gluten free, comes in a 12 oz can, and has an ABV of 7%"
+    "name": "New Belgium Holiday Ale Bucket",
+    "description": "Enjoy a bucket with 5 Holiday Ale's. Cranberry and orange, cinnamon and spice, for everyone naughty and nice. It's always the season."
   },
   {
     "name": "Cutwater Long Island Ice Tea",
     "description": "A Coastal Classic. Real Spirits. Featuring four of our award-winning spirits with citrus notes and a splash of cola. Enjoy with a fresh lemon slice or straight from our can. Contains 2+ shots of liquor. Gluten free, 12 oz can, with an ABV of 13%"
   },
   {
-    "name": "Paulaner Oktoberfest Bier",
-    "description": "Special one liter can straight from the world famous event. Reminds you of the October sunshine in Germany,flavorful, and golden. The locals call it liquid gold. This once a year bier will allow you to join the festivities here or at home. 1 liter can, with an ABV of 6%"
-  },
-  {
     "name": "Bud Light Lime Bucket",
     "description": "Enjoy 5 cold beers, served over ice in a bucket."
-  },
-  {
-    "name": "New Belgium Holiday Ale Bucket",
-    "description": "Enjoy a bucket with 5 Holiday Ale's. Cranberry and orange, cinnamon and spice, for everyone naughty and nice. It's always the season."
-  },
-  {
-    "name": "Tecate Bucket",
-    "description": "Enjoy a bucket of 5 beers, served cold on ice."
   }
 ]

@@ -1,11 +1,11 @@
 [
   {
-    "name": "Blueberry Lemon Sidecar",
-    "description": "A twist on your classic Sidecar. Blueberry syrup, Brandy, Triple Sec, and fresh lemon juice. Served chilled in a sugar rimmed rocks glass."
+    "name": "Bloody Mary",
+    "description": null
   },
   {
-    "name": "Siesta",
-    "description": "Light and refreshing w/ Libelula tequila, Campari, fresh grapefruit juice, fresh lime juice, simple, and club soda"
+    "name": "Blueberry Lemon Sidecar",
+    "description": "A twist on your classic Sidecar. Blueberry syrup, Brandy, Triple Sec, and fresh lemon juice. Served chilled in a sugar rimmed rocks glass."
   },
   {
     "name": "Aperol Spritz",
@@ -16,6 +16,10 @@
     "description": null
   },
   {
+    "name": "Mimosa",
+    "description": "A true classic, prosecco topped with orange juice."
+  },
+  {
     "name": "Mimosas By the Bottle",
     "description": "Bottle of Merum Prosecco and your choice of juice."
   },
@@ -24,19 +28,43 @@
     "description": "Classic Cocktail - we make it how you like it!"
   },
   {
+    "name": "Siesta",
+    "description": "Light and refreshing w/ Libelula tequila, Campari, fresh grapefruit juice, fresh lime juice, simple, and club soda"
+  },
+  {
+    "name": "Raspberry Margarita",
+    "description": null
+  },
+  {
+    "name": "Grapefruit Margarita",
+    "description": null
+  },
+  {
+    "name": "Blueberry Margarita",
+    "description": null
+  },
+  {
+    "name": "Pineapple Margarita",
+    "description": null
+  },
+  {
     "name": "Espresso Martini",
     "description": "vodka, Irish cream, espresso concentrate, simple syrup and coffee liqueur."
   },
   {
-    "name": "Mimosa",
-    "description": "A true classic, prosecco topped with orange juice."
-  },
-  {
-    "name": "Strawberries and Cream Daiquiri",
-    "description": "The Strawberry Daiquiri is served frozen. Rum, lime, simple syrup and several strawberries are combined with ice and blended until smooth. This icy treat provides the invigorating profile of a fresh smoothie, with the added bonus of alcohol. Served in a plastic 16 oz cup, topped with whipped cream."
-  },
-  {
     "name": "Lemon Drop Martini",
     "description": "This cocktail contains Stateside vodka, lemon juice, triple sec, and simple syrup. The glass is rimmed with sugar and garnished with a lemon peel."
+  },
+  {
+    "name": "Hibiscus Margarita",
+    "description": "special marg for summer season"
+  },
+  {
+    "name": "Blood Orange Margarita",
+    "description": null
+  },
+  {
+    "name": "Carafe of Juice for Mimosas",
+    "description": null
   }
 ]

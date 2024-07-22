@@ -4,6 +4,14 @@
     "description": "6 wings fried to crispy perfection tossed with your choice of Haus BBQ, Haus Buffalo, or our Haus Spicy Dry rub. Combine BBQ or Buffalo with Spicy Dry Rub and get Rail BBQ or Rail Hot. Served with a side of ranch."
   },
   {
+    "name": "Party Board",
+    "description": "any three sausages, pretzel bites, haus fries, haus sauce, mustard, haus beer cheese sauce"
+  },
+  {
+    "name": "Wing Party Board",
+    "description": "Perfect sampler of 18 wings fried to crispy perfection tossed with your choice of Haus BBQ, Haus Buffalo, or our Haus Spicy Dry rub. Includes Pretzel bites and Haus Fries."
+  },
+  {
     "name": "German Pretzel Bites",
     "description": "Pretzel Bites w/ beer cheese or obatzda cheese for dipping!"
   },
@@ -12,14 +20,6 @@
   {
     "name": "Hummus Plate",
     "description": "hummus, pita bread, cucumbers, olives, red onions, olive oil."
-  },
-  {
-    "name": "Party Board",
-    "description": "any three sausages, pretzel bites, haus fries, haus sauce, mustard, haus beer cheese sauce"
-  },
-  {
-    "name": "Wing Party Board",
-    "description": "Perfect sampler of 18 wings fried to crispy perfection tossed with your choice of Haus BBQ, Haus Buffalo, or our Haus Spicy Dry rub. Includes Pretzel bites and Haus Fries."
   },
   { "name": "Side of Haus Beer Cheese Sauce", "description": null },
   { "name": "Side of Obatzda Cheese Dip", "description": null }

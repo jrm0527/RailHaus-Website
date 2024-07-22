@@ -16,8 +16,12 @@
     "description": "Enjoy this smooth & dark lager with all of the roasty-toasty notes you know you love\nABV 4.8%"
   },
   {
-    "name": "Other Half DDH Green Cityr",
-    "description": "Our flagship IPA, Green City has juicy notes of peach rings, grapefruit, mango, and tropical candies. Loaded with oats for a creamy body that’s not too sweet. Has Centennial, Citra, and Simcoe hops. Served in a snifter with an ABV of 7%"
+    "name": "Liquid Alchemy (Dark Cider)",
+    "description": "Dark mead based cider."
+  },
+  {
+    "name": "Warsteiner German Pilsner",
+    "description": "Also known as Warsteiner Premium Verum! A refreshing, pale golden pilsener with a clean taste perfectly balanced with hints of barley malt, subtle bottom fermenting yeast tones and mild hoppy bitterness. 4.8% ABV, served in a Warsteiner half liter or a liter."
   },
   {
     "name": "Paulaner Muenchner Lager",
@@ -27,37 +31,48 @@
     "name": "Guinness Stout",
     "description": "Looks dark and tough, but drinks smooth and light. The original nitro stout served in its iconic pint glass\nABV 4.2%"
   },
-  { "name": "Liquid Alchemy (Dark Cider)", "description": "ABV 7.5%" },
   {
-    "name": "Evil Genius I Said What I Said",
-    "description": "Key Lime Margarita Sour. Salt rims are for cans too. This light blonde ale has been fermented with a special hybrid sour yeast for the perfect level of acidic tartness and then dosed with natural margarita flavor. No blender required.\nMalts: Acidulated, Pale, Wheat\nHops: Pahto\nServed in a pint with an ABV of 5%"
+    "name": "Other Half Forever Ever",
+    "description": "Massively double dry-hopped, low ABV crusher with notes of peach tea, citrus, passion fruit, and mango. Served in a snifter with an ABV of 4.7%."
+  },
+  {
+    "name": "Troegs Graffiti Highway IPA",
+    "description": "You. Your friends. And a trip to nowhere. Graffiti Highway wanders off the beaten path, where twists and turns of citrus and tropical aromas merge into a colorful mosaic. It’s a beer with hoppy, fruit-forward flavors and mild bitterness. Take your taste buds on a journey with a juicy, hazy IPA primed for adventure. Served in a pint with an ABV of 6%."
+  },
+  {
+    "name": "Sam Adam's Summer Ale",
+    "description": "Citrus wheat ale. 5.3%ABV served in a pint glass."
   },
   {
     "name": "Evil Genius #Adulting",
-    "description": "Adulting is our Guava-infused IPA! Pale and crystal malts marry perfectly with Citra & Cascade hops, creating an easy drinking, creamy, medium-bodied, clean, smooth IPA. It is then infused with all-natural guava, turning this already delicious IPA into something truly unique. Big, bold hop notes of tropical fruit, watermelon, and lemon, balanced perfectly by a slightly sweet malt backbone and juicy, refreshing guava. Served in a pint with an ABV of 6.8%"
-  },
-  {
-    "name": "Troegs Sunshine Pilsner",
-    "description": "It takes the right ingredients, people, and processes to nail the complex balance of two-row barley, zesty Saaz hops and lager yeast. Secondary fermentation creates natural carbonation that delivers soft notes of fresh-cut straw and flowering herbs. In the end, this bright and refreshingly clean American craft pilsner is our go-to when the sun is shining and makes us happy when skies are gray. Served in a pint with an ABV of 4.5%."
-  },
-  {
-    "name": "Troegs Lollihop DIPA",
-    "description": "When we make our annual pilgrimage to the hop-growing hotbed of Yakima Valley, we’re like kids in a candy store. We eyeball the hops on the bines, crush them in our hands and rub them til their oils fill the air. LolliHop brings together three of our favorites. Dry-hopping with Citra and Mosaic layers in notes of orange, grapefruit and melon, while Azacca in the kettle adds hints of papaya and pineapple. Locally harvested rustic pale malt provides the backbone, and wheat and oats make this beer silky smooth with a touch of haze. 8 ounce pour with an ABV of 8.2%."
-  },
-  {
-    "name": "First State Pure Iration",
-    "description": "You’ll feel nothing but Pure Iration when you taste this collab with our friends over at Beerscovery! For this Double Dry-Hopped Hazy Double IPA we featured a juicy cornucopia of hops including: Mosaic, Citra, Sabro, Strata, & BRU-1. Tropical notes of coconut, stone fruit, passion fruit, mango, pineapple, & grapefruit float over a silky base of Pilsen, Oats, & Wheat. Served in a snifter."
+    "description": "#Adulting is our Guava-infused IPA! Pale and crystal malts marry perfectly with Citra & Cascade hops, creating an easy drinking, creamy, medium-bodied, clean, smooth IPA. It is then infused with all-natural guava, turning this already delicious IPA into something truly unique. Big, bold hop notes of tropical fruit, watermelon, and lemon, balanced perfectly by a slightly sweet malt backbone and juicy, refreshing guava. Served in a pint with an ABV of 6.8%"
   },
   {
     "name": "Bitburger Premium Pilsner",
     "description": "The perfected delight of pilsener with an accent of hops, combined with ease and elegance, and a crystal-clear, sunny straw-colour and long-lasting, fine head: brewed for almost two hundred years from the finest raw ingredients according to the German purity law, it's not for nothing that our Bitburger Premium Pils is the most popular draft beer in Germany. Its freshly-drawn flavour makes our Premium beer so well-loved. Served in a pint with an ABV of 4.8%"
   },
   {
-    "name": "Tired Hands Ourison",
-    "description": "Ourison represents the progression and evolution of our Saison fermentation program. Ourison is Our Saison, SaisonHands, left to condition in oak and then allowed to fully express itself via a lengthy bottle conditioning period. The end result is a highly refined snappy and pungent Saison that, I feel, is one of the most simplistic and exciting iterations of Saison that we have ever produced."
+    "name": "Bitburger Winterbock",
+    "description": "The best beer for winter time – tasty and powerfull in taste: Winterbock is a pale bock beer refined with Bitburger Siegelhopfen and aromatic Callista hops. Developed by our Brew Master Stefan Meyna, Bitburger Winterbock is lagered at –2°C in our cellars. The first sip is mild and fruity, revealing an intense, pleasantly rich malt sweetness. The fine bitterness from the hops is a well-balanced accompaniment, before finishing with a nice warmth on the palate. Served in a Bitburger Willi pint with an ABV of 7%"
+  },
+  {
+    "name": "Bitburger Winterbock",
+    "description": "The best beer for winter time – tasty and powerfull in taste: Winterbock is a pale bock beer refined with Bitburger Siegelhopfen and aromatic Callista hops. Developed by our Brew Master Stefan Meyna, Bitburger Winterbock is lagered at –2°C in our cellars. The first sip is mild and fruity, revealing an intense, pleasantly rich malt sweetness. The fine bitterness from the hops is a well-balanced accompaniment, before finishing with a nice warmth on the palate. Served in a Bitburger Willi pint with an ABV of 7%"
+  },
+  {
+    "name": "Weihenstephaner 1516 Kellerbier",
+    "description": "1516 Kellerbier is full-bodied with a pleasant caramel note and a rich amber color. During the extended maturation period, the bottom-fermenting yeast sediments at the bottom of the tank, leaving the beer with a slightly opalescent cloudiness, part of its characteristic appearance. The balanced hop note rounds out the flavor perfectly. The initial impression hints at great things to come. A solid head of finely structured foam crowns our 1516 Kellerbier, and a refreshingly fruity aroma invites further exploration. Served by the liter and the half liter with an ABV of 5.6%"
   },
   {
     "name": "Benediktiner Weissbier",
     "description": "The full wheaty taste of Benediktiner Weissbier is complemented by a bright amber colour, uniform opacity and a light foam head with extra-fine bubbles.\nAll the while balancing a gentle tingling and citrusy effervescence, this is specialty beer at its most expressive. Served in a .5L heffe glass with a ABV of 5.4%\nKeeping calm, making time to do good things, taking the greatest care with everything, and having respect for everything and everyone. These values are key to the way of life for Benedictine monks, and these principles also characterise the production and enjoyment of Benediktiner beer. Both our top-fermented Benediktiner Weissbier (wheat beer) and our bottom-fermented Benediktiner Hell lager are brewed follow original traditional recipes from Benedictine monks, using local brewing yeast from the town of Ettal and overseen by a special brewery guard. Forming an extraordinarily good experience, Benediktiner beers are so close to heaven, but still no stranger to earth.\nBenediktiner’s premium beers are brewed following original Benedictine recipes using special brewing yeast from the village of Ettal. The beer is brewed under licence from Benediktiner Weissbräu GmbH in the town of Lich."
+  },
+  {
+    "name": "Dewey Strawberry Pretzel Salad",
+    "description": "One of Delaware's favorite desserts brought to beer life. Gose conditioned on Strawberries, Pretzels and Cream. Served in a pint with an ABV of 4.5%"
+  },
+  {
+    "name": "First State Chromatic Vibrance",
+    "description": "Chromatic Vibrance! Our brand new fruited Hazy IPA featuring HBC 630, Mosaic, & Lemondrop hops, as well as a hearty addition of raspberry & lemon. Served in a snifter with an ABV of 5%"
   }
 ]
