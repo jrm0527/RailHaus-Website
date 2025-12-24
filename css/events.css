@@ -28,7 +28,7 @@ body {
   text-decoration: none;
   color: black;
   font-size: 0.7rem;
-  font-family: "Outfit", sans-serif;
+  font-family: 'Outfit', sans-serif;
 }
 
 .nav-link:hover {
@@ -48,7 +48,7 @@ body {
 }
 
 .title {
-  font-family: "Londrina Solid", cursive;
+  font-family: 'Londrina Solid', cursive;
   color: black;
   font-size: 2rem;
   font-weight: 300;
@@ -65,7 +65,7 @@ body {
 .event-item {
   display: flex;
   justify-content: space-between;
-  font-family: "Outfit", sans-serif;
+  font-family: 'Outfit', sans-serif;
   font-weight: 300;
   padding-bottom: 2%;
   margin-left: 5%;
@@ -98,7 +98,7 @@ body {
 }
 
 .paragraph-text {
-  font-family: "Outfit", sans-serif;
+  font-family: 'Outfit', sans-serif;
   font-size: 1.5rem;
   width: 100%;
 }

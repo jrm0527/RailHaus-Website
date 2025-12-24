@@ -1,0 +1,60 @@
+/* Menu Gateway Styles */
+.menu-gateway {
+  width: 90%;
+  max-width: 800px;
+  height: auto;
+  margin: 20px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu-content {
+  text-align: center;
+  padding: 20px;
+}
+
+.menu-content h2 {
+  font-family: 'Londrina Solid', cursive;
+  font-size: 4rem;
+  margin-bottom: 20px;
+  letter-spacing: 2px;
+  color: #ff6f61;
+}
+
+.menu-content .paragraph-text {
+  width: 100%;
+}
+
+.menu-btn {
+  display: inline-block;
+  padding: 15px 40px;
+  background-color: #ff6f61;
+  color: white;
+  text-decoration: none;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 700;
+  font-size: 1.2rem;
+  border-radius: 50px;
+  transition: all 0.3s ease;
+  box-shadow: 0 5px 15px rgba(255, 111, 97, 0.4);
+}
+
+.menu-btn:hover {
+  background-color: white;
+  color: #ff6f61;
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(255, 255, 255, 0.2);
+}
+
+@media (max-width: 600px) {
+  .menu-gateway {
+    height: 50vh;
+  }
+  .menu-content h2 {
+    font-size: 2.5rem;
+  }
+  /* .menu-content p {
+    font-size: 1.1rem;
+  } */
+}

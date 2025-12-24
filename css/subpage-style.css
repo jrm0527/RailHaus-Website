@@ -6,7 +6,6 @@ body {
 .main-page {
   display: flex;
   flex-direction: column;
-  /* justify-content: space-evenly; */
   align-items: center;
   margin: auto;
 }
@@ -50,96 +49,21 @@ body {
 .title {
   font-family: 'Londrina Solid', cursive;
   color: black;
-  font-size: 2rem;
+  font-size: 2.2rem;
   font-weight: 300;
   padding-top: 30px;
   padding-bottom: 0;
 }
 
-/*
-font-family: "Londrina Solid", cursive;
-font-family: "Outfit", sans-serif;
-color: #ff6f61  living coral
-color: #d4edec  limpet shell
-*/
-
-.tabs {
-  margin-top: -50px;
-  width: 40%;
-}
-
-.tab {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  width: 100%;
-  border-top-width: 1px;
-  border-top-style: solid;
-  border-bottom-width: 1px;
-  border-bottom-style: solid;
-  margin-top: -1px;
-  border-color: black;
-  border-radius: 0px;
-  padding: 0;
-  overflow: hidden;
-}
-.tab-label {
-  display: flex;
-  justify-content: space-between;
-  padding: 1em 0px 1em 0px;
-  color: black;
+.paragraph-text {
   font-family: 'Outfit', sans-serif;
   font-size: 1.5rem;
-  /* font-weight: bold; */
-  cursor: pointer;
-}
-.tab-label::after {
-  content: '❯';
-  width: 1em;
-  height: 1em;
-  text-align: center;
-  transition: all 0.15s;
+  width: 60%;
 }
 
-.tab-content {
-  display: flex;
-  flex-direction: column;
-  max-height: 0;
-  background: white;
-  transition: all 0.15s;
-}
-
-input:checked + .tab-label::after {
-  transform: rotate(90deg);
-}
-input:checked ~ .tab-content {
-  max-height: fit-content;
-}
-
-input {
-  position: absolute;
-  opacity: 0;
-  z-index: -1;
-}
-
-.list-item {
-  display: flex;
-  flex-direction: column;
-  list-style-type: none;
-  margin-left: 5%;
-  font-family: 'Outfit', sans-serif;
-  font-weight: 300;
-  padding-bottom: 1.5%;
-}
-
-.item-name {
-  text-align: left;
-  font-weight: bold;
-}
-
-.item-detail {
-  text-align: left;
-  font-style: italic;
+.owner-img {
+  width: 250px;
+  height: auto;
 }
 
 @media (min-width: 280px) {
@@ -164,19 +88,13 @@ input {
     font-size: 1.4rem;
   }
 
-  .tabs {
-    margin-top: -10px;
-    width: 90%;
-  }
-
-  .tab-label {
+  .paragraph-text {
+    width: 85%;
     font-size: 1rem;
   }
 
-  .list-item {
-    font-size: 0.7rem;
-    margin-left: 2%;
-    margin-right: 2%;
+  .owner-img {
+    width: 85%;
   }
 }
 
@@ -201,19 +119,13 @@ input {
     font-size: 1.7rem;
   }
 
-  .tabs {
-    margin-top: -10px;
-    width: 90%;
-  }
-
-  .tab-label {
+  .paragraph-text {
+    width: 85%;
     font-size: 1rem;
   }
 
-  .list-item {
-    font-size: 0.7rem;
-    margin-left: 2%;
-    margin-right: 2%;
+  .owner-img {
+    width: 85%;
   }
 }
 
@@ -234,17 +146,13 @@ input {
     font-size: 1.7rem;
   }
 
-  .tabs {
-    margin-top: -10px;
+  .paragraph-text {
     width: 85%;
-  }
-
-  .tab-label {
     font-size: 1rem;
   }
 
-  .list-item {
-    font-size: 0.8rem;
+  .owner-img {
+    width: 85%;
   }
 }
 
@@ -267,17 +175,13 @@ input {
     font-size: 1.8rem;
   }
 
-  .tabs {
-    margin-top: -10px;
-    width: 80%;
-  }
-
-  .tab-label {
+  .paragraph-text {
+    width: 55%;
     font-size: 1rem;
   }
 
-  .list-item {
-    font-size: 1rem;
+  .owner-img {
+    width: 55%;
   }
 }
 /* Medium Devices*/
@@ -299,17 +203,13 @@ input {
     font-size: 2.2rem;
   }
 
-  .tabs {
-    margin-top: -10px;
-    width: 40%;
+  .paragraph-text {
+    width: 55%;
+    font-size: 1.2rem;
   }
 
-  .tab-label {
-    font-size: 0.9rem;
-  }
-
-  .list-item {
-    font-size: 0.7rem;
+  .owner-img {
+    width: 55%;
   }
 }
 /* Large Devices*/
@@ -331,17 +231,13 @@ input {
     font-size: 2.7rem;
   }
 
-  .tabs {
-    margin-top: -10px;
-    width: 40%;
+  .paragraph-text {
+    width: 60%;
+    font-size: 1.2rem;
   }
 
-  .tab-label {
-    font-size: 1.1rem;
-  }
-
-  .list-item {
-    font-size: 0.9rem;
+  .owner-img {
+    width: 60%;
   }
 }
 
@@ -364,17 +260,13 @@ input {
     font-size: 3rem;
   }
 
-  .tabs {
-    margin-top: -20px;
-    width: 40%;
-  }
-
-  .tab-label {
+  .paragraph-text {
+    width: 60%;
     font-size: 1.2rem;
   }
 
-  .list-item {
-    font-size: 1rem;
+  .owner-img {
+    width: 60%;
   }
 }
 
@@ -396,12 +288,13 @@ input {
     font-size: 4rem;
   }
 
-  .tab-label {
+  .paragraph-text {
+    width: 60%;
     font-size: 1.5rem;
   }
 
-  .list-item {
-    font-size: 1.2rem;
+  .owner-img {
+    width: 60%;
   }
 }
 
@@ -422,11 +315,11 @@ input {
     font-size: 4.5rem;
   }
 
-  .tab-label {
-    font-size: 1.8rem;
+  .paragraph-text {
+    width: 40%;
   }
 
-  .list-item {
-    font-size: 1.5rem;
+  .owner-img {
+    width: 40%;
   }
 }
